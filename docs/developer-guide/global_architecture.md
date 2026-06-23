@@ -4,6 +4,7 @@ summary: A global overview of how Ontoportal works
 layout: default
 status: Draft
 parent: Developer Guide
+permalink: /developer-guide/global_architecture
 nav_order: 2
 ---
 

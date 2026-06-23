@@ -4,6 +4,7 @@ layout: default
 summary: The first page to see if you want to go beyond a sample installation of Ontoportal
 status: Draft
 parent: Developer Guide
+permalink: /developer-guide/getting_started
 nav_order: 1
 ---
 # Getting Started 

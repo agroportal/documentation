@@ -4,6 +4,7 @@ summary: Debug and Test your OntoPortal installation code
 layout: default
 status: Draft
 parent: Developer Guide
+permalink: /developer-guide/debugging_ontoportal
 nav_order: 4
 ---
 

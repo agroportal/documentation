@@ -4,6 +4,7 @@ layout: default
 summary: The procedure to deploy your own code onto the appliance
 status: Draft
 parent: Developer Guide
+permalink: /developer-guide/deploying_local_code
 nav_order: 5
 ---
 # Deploying local code

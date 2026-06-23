@@ -5,6 +5,7 @@ layout: default
 status: Draft
 parent:  Development Environment
 grand_parent: Developer Guide
+permalink: /developer-guide/development-environment/frontend_environment
 nav_order: 1
 ---
 
