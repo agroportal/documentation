@@ -4,7 +4,7 @@ summary: Search concepts and classes locally and also across other federated por
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/federation/federated_search/v41
+permalink: /administration-guide/federation/federated_search/v41
 ---
 
 {% include admin_nav.html %}

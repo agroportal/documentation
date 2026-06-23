@@ -4,7 +4,7 @@ summary: Configuring more advanced settings
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/steps/advanced_configuration/v41
+permalink: /administration-guide/steps/advanced_configuration/v41
 ---
 
 {% include admin_nav.html %}

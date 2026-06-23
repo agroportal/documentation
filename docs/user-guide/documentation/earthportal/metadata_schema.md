@@ -3,7 +3,7 @@ title: Metadata Schema
 summary: Description of the metadata schema
 layout: default
 parent: User Guide
-permalink: user_guide/metadata_schema/EarthPortal
+permalink: user-guide/metadata_schema/EarthPortal
 nav_order: 3
 ---
 

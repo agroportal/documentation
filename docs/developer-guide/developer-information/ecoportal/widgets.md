@@ -4,7 +4,7 @@ summary: How to implement EcoPortal widgets in your projects
 layout: default
 parent: Developer information @EcoPortal
 grand_parent: Developer Guide
-permalink: developer/developer_information/widgets/EcoPortal
+permalink: developer-guide/developer_information/widgets/EcoPortal
 nav_order: 3
 ---
 

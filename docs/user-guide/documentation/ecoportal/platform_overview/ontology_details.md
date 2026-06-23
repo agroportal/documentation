@@ -4,7 +4,7 @@ summary: Details page of semantic artefacts
 layout: default
 parent:  EcoPortal overview
 grand_parent: User Guide
-permalink: user_guide/platform_overview/ontology_details/EcoPortal
+permalink: user-guide/platform_overview/ontology_details/EcoPortal
 nav_order: 3
 ---
 

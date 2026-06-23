@@ -6,7 +6,7 @@ status: Preliminary
 nav_order: 10
 parent: Managing Your System
 grand_parent: Administration Guide
-permalink: /administration/management/solr
+permalink: /administration-guide/management/solr
 version: "v32"
 ---
 

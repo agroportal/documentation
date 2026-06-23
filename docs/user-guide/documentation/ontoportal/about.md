@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: user_guide/OntoPortal
+permalink: user-guide/OntoPortal
 parent: User Guide
 nav_order: 1
 portal: "OntoPortal"

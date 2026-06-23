@@ -6,7 +6,7 @@ status: Preliminary
 nav_order: 4
 parent: OntoPortal Federation
 grand_parent: Administration Guide
-permalink: /administration/federation/federated_categories
+permalink: /administration-guide/federation/federated_categories
 version: "v32"
 ---
 

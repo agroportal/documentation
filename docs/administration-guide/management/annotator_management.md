@@ -6,7 +6,7 @@ status: Preliminary
 nav_order: 4
 parent: Managing Your System
 grand_parent: Administration Guide
-permalink: /administration/management/annotator_management
+permalink: /administration-guide/management/annotator_management
 version: "v32"
 ---
 

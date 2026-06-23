@@ -4,7 +4,7 @@ summary: How is SKOS supported in EarthPortal
 layout: default
 parent: Semantic artefacts lifecycle @EarthPortal
 grand_parent: User Guide
-permalink: user_guide/ontology_lifecycle/skos_support/EarthPortal
+permalink: user-guide/ontology_lifecycle/skos_support/EarthPortal
 nav_order: 4
 ---
 

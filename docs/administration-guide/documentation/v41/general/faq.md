@@ -4,7 +4,7 @@ summary: Various common questions about the Appliance
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/general/faq/v41
+permalink: /administration-guide/general/faq/v41
 ---
 
 {% include admin_nav.html %}

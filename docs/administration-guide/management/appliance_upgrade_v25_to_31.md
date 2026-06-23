@@ -6,7 +6,7 @@ status: Pending
 nav_order: 8
 parent: Managing Your System
 grand_parent: Administration Guide
-permalink: /administration/management/appliance_upgrade_v25_to_31
+permalink: /administration-guide/management/appliance_upgrade_v25_to_31
 version: "v32"
 ---
 

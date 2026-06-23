@@ -4,7 +4,7 @@ summary: Keeping your OntoPortal Virtual Appliance running smoothly
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/management/v41
+permalink: /administration-guide/management/v41
 ---
 
 {% include admin_nav.html %}

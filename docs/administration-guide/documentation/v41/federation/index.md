@@ -4,7 +4,7 @@ summary: Getting your OntoPortal system included in the OntoPortal Federation
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/federation/v41
+permalink: /administration-guide/federation/v41
 ---
 
 {% include admin_nav.html %}

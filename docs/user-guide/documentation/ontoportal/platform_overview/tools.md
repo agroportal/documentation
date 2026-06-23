@@ -4,7 +4,7 @@ summary: OntoPortal tools
 layout: default
 parent:  OntoPortal overview
 grand_parent: User Guide
-permalink: user_guide/platform_overview/tools/OntoPortal
+permalink: user-guide/platform_overview/tools/OntoPortal
 nav_order: 2
 ---
 

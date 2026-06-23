@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: user_guide/EcoPortal
+permalink: user-guide/EcoPortal
 parent: User Guide
 nav_order: 1
 portal: "EcoPortal"

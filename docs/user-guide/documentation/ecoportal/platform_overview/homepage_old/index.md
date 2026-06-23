@@ -4,7 +4,7 @@ summary: EcoPortal homepage
 layout: default
 parent:  EcoPortal overview
 grand_parent: Users guide
-permalink: user_guide/platform_overview/homepage/EcoPortal
+permalink: user-guide/platform_overview/homepage/EcoPortal
 nav_order: 1
 ---
 

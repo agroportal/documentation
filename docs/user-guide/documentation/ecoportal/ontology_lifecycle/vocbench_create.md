@@ -4,7 +4,7 @@ summary: How to create and edit semantic artefacts
 layout: default
 parent: Semantic artefacts lifecycle @EcoPortal
 grand_parent: User Guide
-permalink: user_guide/ontology_lifecycle/vocbench_create/EcoPortal
+permalink: user-guide/ontology_lifecycle/vocbench_create/EcoPortal
 nav_order: 1
 ---
 ## Create and edit semantic artefacts

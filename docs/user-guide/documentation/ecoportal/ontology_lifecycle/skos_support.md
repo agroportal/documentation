@@ -4,7 +4,7 @@ summary: How is SKOS supported in EcoPortal
 layout: default
 parent: Semantic artefacts lifecycle @EcoPortal
 grand_parent: User Guide
-permalink: user_guide/ontology_lifecycle/skos_support/EcoPortal
+permalink: user-guide/ontology_lifecycle/skos_support/EcoPortal
 nav_order: 6
 ---
 

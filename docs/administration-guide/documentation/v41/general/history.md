@@ -4,7 +4,7 @@ summary: How the Appliance got to this point
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/general/history/v41
+permalink: /administration-guide/general/history/v41
 ---
 
 {% include admin_nav.html %}

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: user_guide/BioPortal
+permalink: user-guide/BioPortal
 parent: User Guide
 nav_order: 1
 ---

@@ -4,7 +4,7 @@ summary: How to update a submitted semantic artefact
 layout: default
 parent: Semantic artefacts lifecycle @EcoPortal
 grand_parent: Users Guide
-permalink: user_guide/ontology_lifecycle/update/EcoPortal
+permalink: user-guide/ontology_lifecycle/update/EcoPortal
 nav_order: 4
 ---
 

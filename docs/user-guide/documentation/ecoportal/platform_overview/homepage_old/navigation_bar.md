@@ -4,7 +4,7 @@ summary: Homepage Navigation bar
 layout: default
 parent:  Homepage
 grand_parent: EcoPortal overview
-permalink: user_guide/platform_overview/homepage/navigation_bar/EcoPortal
+permalink: user-guide/platform_overview/homepage/navigation_bar/EcoPortal
 nav_order: 1
 ---
 

@@ -4,7 +4,7 @@ summary: Details page of semantic artefacts
 layout: default
 parent:  EarthPortal overview
 grand_parent: User Guide
-permalink: user_guide/platform_overview/ontology_details/EarthPortal
+permalink: user-guide/platform_overview/ontology_details/EarthPortal
 nav_order: 3
 ---
 

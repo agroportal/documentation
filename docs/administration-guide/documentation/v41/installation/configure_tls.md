@@ -5,7 +5,7 @@ layout: default
 nav_exclude: true
 version: "v41"
 v32_url: /administration/steps/
-permalink: /administration/steps/configure_tls/v41
+permalink: /administration-guide/steps/configure_tls/v41
 ---
 
 {% include admin_nav.html %}

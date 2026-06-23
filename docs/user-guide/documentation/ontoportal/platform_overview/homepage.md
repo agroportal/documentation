@@ -4,7 +4,7 @@ summary: OntoPortal homepage
 layout: default
 parent:  OntoPortal overview
 grand_parent: User Guide
-permalink: user_guide/platform_overview/homepage/OntoPortal
+permalink: user-guide/platform_overview/homepage/OntoPortal
 nav_order: 1
 ---
 

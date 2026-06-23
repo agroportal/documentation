@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contribute
-permalink: /user_guide/contribute
+permalink: /user-guide/contribute
 parent: User Guide
 nav_exclude: true
 ---

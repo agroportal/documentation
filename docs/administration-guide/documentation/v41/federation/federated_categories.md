@@ -4,7 +4,7 @@ summary: Unified Categories with a general disciplines vocabulary
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/federation/federated_categories/v41
+permalink: /administration-guide/federation/federated_categories/v41
 ---
 
 {% include admin_nav.html %}

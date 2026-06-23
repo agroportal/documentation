@@ -4,7 +4,7 @@ summary: Working with ontologies in the OntoPortal Appliance
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/ontologies/v41
+permalink: /administration-guide/ontologies/v41
 ---
 
 {% include admin_nav.html %}

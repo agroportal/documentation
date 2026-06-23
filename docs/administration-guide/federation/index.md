@@ -5,7 +5,7 @@ summary: Getting your OntoPortal system included in the OntoPortal Federation
 parent: Administration Guide
 nav_order: 4
 has_children: true
-permalink: /administration/federation/
+permalink: /administration-guide/federation/
 version: "v32"
 ---
 

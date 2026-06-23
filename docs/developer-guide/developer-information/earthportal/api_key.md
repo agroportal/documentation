@@ -4,7 +4,7 @@ summary: How to fetch your API key and use it
 layout: default
 parent: Developer information @EarthPortal
 grand_parent: Developer Guide
-permalink: developer/developer_information/api_key/EarthPortal
+permalink: developer-guide/developer_information/api_key/EarthPortal
 nav_order: 1
 ---
 

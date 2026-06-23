@@ -4,7 +4,7 @@ summary: How to fetch your API key and use it
 layout: default
 parent: Developer information @OntoPortal
 grand_parent: Developer Guide
-permalink: developer/developer_information/api_key/OntoPortal
+permalink: developer-guide/developer_information/api_key/OntoPortal
 nav_order: 1
 ---
 
