@@ -2,12 +2,10 @@
 title: How to contribute to the doc
 layout: default
 summary: A guide on how to contribute to this documentation
-status: Needs revision
-parent: Documentation configuration
-nav_order: 1
+parent: Developer Guide
+nav_order: 10
+permalink: /developer/how-to-contribute-doc
 ---
-
-
 
 This page describes straightforwardly on how to edit and contribute to this documentation
 
@@ -42,7 +40,7 @@ At the bottom of each page, you will find a link that will take you to the corre
 ![image](https://user-images.githubusercontent.com/29259906/207830907-a091d47c-5669-4903-ab36-4dd06662640a.png)
 
 ### Make your change and submit a commit
-![image](https://user-images.githubusercontent.com/29259906/207832629-ba36a90d-376e-4705-ab10-b3513eec0660.png)
+![image](https://user-images.githubusercontent.com/29259906/207832629-b4cd41f1-7adc-4fda-ab49-ba6ef18ab4fe.png)
 
 ## How to add images
 
