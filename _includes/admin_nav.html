@@ -1,0 +1,38 @@
+<!-- _includes/admin_nav.html -->
+<div>
+    This page is available for these appliance versions:<br>
+</div>
+
+<div class="ontoportal-tabs" id="ontoportal_tabs">
+    {% assign versions = "v32,v41" | split: "," %}
+    {% assign version_labels = "Appliance v3.2,Appliance v4.1" | split: "," %}
+
+    {% for i in (0..1) %}
+        {% assign v = versions[i] %}
+        {% assign label = version_labels[i] %}
+
+        {% if page.version == v %}
+            <a class="button active">{{ label }}</a>
+        {% else %}
+            {% if page.version == "v32" %}
+                {% if page.v41_url %}
+                    {% assign target_url = page.v41_url %}
+                {% else %}
+                    {% assign last_char = page.permalink | slice: -1 %}
+                    {% if last_char == "/" %}
+                        {% assign target_url = page.permalink | append: "v41" %}
+                    {% else %}
+                        {% assign target_url = page.permalink | append: "/v41" %}
+                    {% endif %}
+                {% endif %}
+            {% elsif page.version == "v41" %}
+                {% if page.v32_url %}
+                    {% assign target_url = page.v32_url %}
+                {% else %}
+                    {% assign target_url = page.permalink | remove: "/v41" %}
+                {% endif %}
+            {% endif %}
+            <a class="button" href="{{ site.baseurl }}{{ target_url }}">{{ label }}</a>
+        {% endif %}
+    {% endfor %}
+</div>

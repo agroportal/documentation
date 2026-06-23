@@ -4,7 +4,10 @@ title: Administration Guide
 nav_order: 2
 has_children: true
 permalink: /administration
+version: "v32"
 ---
+
+{% include admin_nav.html %}
 
 # OntoPortal Administration Guide
 
