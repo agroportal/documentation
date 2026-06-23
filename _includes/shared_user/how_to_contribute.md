@@ -5,7 +5,7 @@ If you don't know how to use Git to edit this documentation, please use the foll
 ## Files structure
 The files are structured as follows:
 
-- Shared content across all portals is located in the folder: `_includes/shared_doc`
+- Shared content across all portals is located in the folder: `_includes/shared_user`
 - Each portal has its own folder named with the name of the portal in: `docs/user-guide/documentation`
 - Figures can be found in the folder: `assets/images/figures/ontoportal/PortalName` (create a new folder if needed)
 - From each portal's specific file, we can include the shared documentation to add to it or incorporate specific content.
