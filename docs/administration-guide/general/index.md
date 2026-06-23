@@ -5,7 +5,7 @@ title: General Information
 parent: Administration Guide
 nav_order: 1
 has_children: true
-permalink: /administration/general/
+permalink: /administration-guide/general/
 version: "v32"
 ---
 

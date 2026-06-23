@@ -187,7 +187,7 @@ compress_html:
 defaults:
   - 
     scope:
-      path: "docs/users-guide-docs/documentation/ontoportal"
+      path: "docs/user-guide/documentation/ontoportal"
       type: "pages"
     values:
       portal: "OntoPortal"
@@ -198,7 +198,7 @@ defaults:
       display_ontoportal_icons: true
   - 
     scope:
-      path: "docs/users-guide-docs/documentation/bioportal"
+      path: "docs/user-guide/documentation/bioportal"
       type: "pages"
     values:
       portal: "BioPortal"
@@ -207,7 +207,7 @@ defaults:
       display_ontoportal_icons: true
   - 
     scope:
-      path: "docs/users-guide-docs/documentation/agroportal"
+      path: "docs/user-guide/documentation/agroportal"
       type: "pages"
     values:
       portal: "AgroPortal"
@@ -216,7 +216,7 @@ defaults:
       display_ontoportal_icons: true
   - 
     scope:
-      path: "docs/users-guide-docs/documentation/ecoportal"
+      path: "docs/user-guide/documentation/ecoportal"
       type: "pages"
     values:
       portal: "EcoPortal"
@@ -227,7 +227,7 @@ defaults:
       display_ontoportal_icons: true
   - 
     scope:
-      path: "docs/users-guide-docs/documentation/earthportal"
+      path: "docs/user-guide/documentation/earthportal"
       type: "pages"
     values:
       portal: "EarthPortal"

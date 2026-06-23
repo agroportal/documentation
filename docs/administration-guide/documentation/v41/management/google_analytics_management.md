@@ -4,7 +4,7 @@ summary: Setting up Google Analytics tracking for your Appliance
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/management/google_analytics_management/v41
+permalink: /administration-guide/management/google_analytics_management/v41
 ---
 
 {% include admin_nav.html %}

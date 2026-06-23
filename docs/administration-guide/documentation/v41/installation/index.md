@@ -4,7 +4,7 @@ summary: Key steps to install the OntoPortal Appliance
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/steps/v41
+permalink: /administration-guide/steps/v41
 ---
 
 {% include admin_nav.html %}

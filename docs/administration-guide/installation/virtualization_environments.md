@@ -6,7 +6,7 @@ status: Ready
 nav_order: 9
 parent: Installing OntoPortal
 grand_parent: Administration Guide
-permalink: /administration/steps/virtualization_environments
+permalink: /administration-guide/steps/virtualization_environments
 version: "v32"
 ---
 

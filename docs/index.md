@@ -24,7 +24,7 @@ For License about the OntoPortal software, see each code repositories.
 
 ### Contributing
 
-See the section [How to contribute to the doc]({{site.baseurl}}/developer/how-to-contribute-doc), to know about maintaining and contributing to this documentation.
+See the section [How to contribute to the doc]({{site.baseurl}}/developer-guide/how-to-contribute-doc), to know about maintaining and contributing to this documentation.
 
 When contributing to this documentation, for significant changes, please first discuss the changes via issue, email, or any other method with the owners of this repository. You can also use pull requests on the corresponding GitHub repository.
 

@@ -2,7 +2,7 @@
 layout: default
 title: Administration Guide (v4.1)
 nav_exclude: true
-permalink: /administration/v41
+permalink: /administration-guide/v41
 version: "v41"
 v32_url: /administration
 ---

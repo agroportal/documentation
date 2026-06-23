@@ -4,7 +4,7 @@ summary: Operations on the solr search index
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/management/search_index_management/v41
+permalink: /administration-guide/management/search_index_management/v41
 ---
 
 {% include admin_nav.html %}

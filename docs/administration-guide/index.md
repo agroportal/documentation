@@ -3,7 +3,7 @@ layout: default
 title: Administration Guide
 nav_order: 2
 has_children: true
-permalink: /administration
+permalink: /administration-guide
 version: "v32"
 ---
 

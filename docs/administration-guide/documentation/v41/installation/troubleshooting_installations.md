@@ -4,7 +4,7 @@ summary: Figuring out why your installation didn't work
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/steps/troubleshooting_installations/v41
+permalink: /administration-guide/steps/troubleshooting_installations/v41
 ---
 
 {% include admin_nav.html %}

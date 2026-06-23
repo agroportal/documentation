@@ -6,7 +6,7 @@ status: In Progress
 nav_order: 5
 parent: Managing Ontologies in OntoPortal
 grand_parent: Administration Guide
-permalink: /administration/ontologies/managing_ontologies
+permalink: /administration-guide/ontologies/managing_ontologies
 version: "v32"
 ---
 

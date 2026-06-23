@@ -4,7 +4,7 @@ summary: How to copy ontologies from another OntoPortal-based repository to your
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/ontologies/copying_external_ontologies/v41
+permalink: /administration-guide/ontologies/copying_external_ontologies/v41
 ---
 
 {% include admin_nav.html %}

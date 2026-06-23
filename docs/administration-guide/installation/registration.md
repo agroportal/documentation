@@ -6,7 +6,7 @@ status: Ready
 nav_order: 5
 parent: Installing OntoPortal
 grand_parent: Administration Guide
-permalink: /administration/steps/registration
+permalink: /administration-guide/steps/registration
 version: "v32"
 ---
 

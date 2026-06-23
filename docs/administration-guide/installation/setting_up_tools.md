@@ -6,7 +6,7 @@ status: In progress
 nav_order: 6
 parent: Installing OntoPortal
 grand_parent: Administration Guide
-permalink: /administration/steps/setting_up_tools
+permalink: /administration-guide/steps/setting_up_tools
 version: "v32"
 ---
 

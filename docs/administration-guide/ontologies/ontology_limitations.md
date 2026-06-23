@@ -6,7 +6,7 @@ status: Ready
 nav_order: 6
 parent: Managing Ontologies in OntoPortal
 grand_parent: Administration Guide
-permalink: /administration/ontologies/ontology_limitations
+permalink: /administration-guide/ontologies/ontology_limitations
 version: "v32"
 ---
 

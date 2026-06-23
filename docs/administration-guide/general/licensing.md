@@ -6,7 +6,7 @@ status: Ready
 nav_order: 3
 parent: General Information
 grand_parent: Administration Guide
-permalink: /administration/general/licensing
+permalink: /administration-guide/general/licensing
 version: "v32"
 ---
 

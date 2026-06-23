@@ -6,7 +6,7 @@ status: Ready
 nav_order: 6
 parent: General Information
 grand_parent: Administration Guide
-permalink: /administration/general/history
+permalink: /administration-guide/general/history
 version: "v32"
 ---
 

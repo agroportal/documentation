@@ -4,7 +4,7 @@ summary: Performing routine tasks in the OntoPortal system
 layout: default
 nav_exclude: true
 version: "v41"
-permalink: /administration/management/routine_operations/v41
+permalink: /administration-guide/management/routine_operations/v41
 ---
 
 {% include admin_nav.html %}

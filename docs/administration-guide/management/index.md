@@ -5,7 +5,7 @@ summary: Keeping your OntoPortal Virtual Appliance running smoothly
 parent: Administration Guide
 nav_order: 4
 has_children: true
-permalink: /administration/management/
+permalink: /administration-guide/management/
 version: "v32"
 ---
 

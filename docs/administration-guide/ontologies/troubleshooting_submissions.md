@@ -6,7 +6,7 @@ status: Ready
 nav_order: 7
 parent: Managing Ontologies in OntoPortal
 grand_parent: Administration Guide
-permalink: /administration/ontologies/troubleshooting_submissions
+permalink: /administration-guide/ontologies/troubleshooting_submissions
 version: "v32"
 ---
 

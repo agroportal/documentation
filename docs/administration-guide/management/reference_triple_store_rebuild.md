@@ -6,7 +6,7 @@ status: Pending
 nav_order: 13
 parent: Managing Your System
 grand_parent: Administration Guide
-permalink: /administration/management/reference_triple_store_rebuild
+permalink: /administration-guide/management/reference_triple_store_rebuild
 version: "v32"
 ---
 

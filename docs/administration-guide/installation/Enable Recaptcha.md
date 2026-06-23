@@ -6,7 +6,7 @@ status: In progress
 nav_order: 12
 parent: Installing OntoPortal
 grand_parent: Administration Guide
-permalink: /administration/steps/enable_recaptcha
+permalink: /administration-guide/steps/enable_recaptcha
 version: "v32"
 ---
 
