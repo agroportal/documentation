@@ -3,13 +3,10 @@ title: Federated User Interfaces and Portal Description
 layout: default
 summary: Similar user interfaces and look and feel with a specific color theme
 status: Preliminary
-nav_order: 1
 parent: OntoPortal Federation
-grand_parent: Administration Guide
-permalink: /administration-guide/federation/federated_UI
-version: "v32"
+grand_parent: User Guide
+permalink: /user-guide/federation/federated_UI
+nav_order: 1
 ---
 
-{% include admin_nav.html %}
-
-{% include shared_admin/federation/federated_UI.md %}
+{% include shared_user/federation/federated_UI.md %}
