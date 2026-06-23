@@ -4,7 +4,7 @@ layout: default
 summary: A guide on how to contribute to this documentation
 parent: Developer Guide
 nav_order: 10
-permalink: /developer/how-to-contribute-doc
+permalink: /developer-guide/how-to-contribute-doc
 ---
 
 This page describes straightforwardly on how to edit and contribute to this documentation

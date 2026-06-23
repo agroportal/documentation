@@ -1,6 +1,6 @@
 ## How to contribute to user documentation
 In the following sections, you will find straightforward description of how to contribute to this user guide, edit shared files between the portals in the alliance, and add or edit specific content for each portal.
-If you don't know how to use Git to edit this documentation, please use the following guide: [How to contribute to the doc]({{site.baseurl}}/developer/how-to-contribute-doc)
+If you don't know how to use Git to edit this documentation, please use the following guide: [How to contribute to the doc]({{site.baseurl}}/developer-guide/how-to-contribute-doc)
 
 ## Files structure
 The files are structured as follows:
