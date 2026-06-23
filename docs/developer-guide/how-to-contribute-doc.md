@@ -7,7 +7,7 @@ nav_order: 10
 permalink: /developer-guide/how-to-contribute-doc
 ---
 
-This page describes straightforwardly on how to edit and contribute to this documentation
+This page describes straightforwardly on how to edit and contribute to this documentation. For significant changes, please first discuss the changes via issue, email, or any other method with the owners of this repository. You can also use pull requests on the corresponding GitHub repository.
 
 1. TOC
 {:toc}
