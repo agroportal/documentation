@@ -4,7 +4,7 @@ summary: How to submit a new ontology
 layout: default
 parent: Semantic artefacts lifecycle @OntoPortal
 grand_parent: User Guide
-permalink: user-guide/ontology_lifecycle/submit/OntoPortal
+permalink: /user-guide/lifecycle/submit/OntoPortal
 nav_order: 1
 ---
 

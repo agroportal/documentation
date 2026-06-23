@@ -3,7 +3,7 @@ title: Semantic artefacts lifecycle @OntoPortal
 summary: Describes how to manage ontologies on the portal
 layout: default
 parent: User Guide
-permalink: user-guide/ontology_lifecycle/OntoPortal
+permalink: /user-guide/lifecycle/OntoPortal
 has_children: true
 nav_order: 4
 ---
