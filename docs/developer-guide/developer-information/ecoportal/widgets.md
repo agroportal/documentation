@@ -2,9 +2,9 @@
 title: Widgets @EcoPortal
 summary: How to implement EcoPortal widgets in your projects
 layout: default
-parent: Developer guide @EcoPortal
-grand_parent: User Guide
-permalink: user_guide/developer_guide/widgets/EcoPortal
+parent: Developer information @EcoPortal
+grand_parent: Developer Guide
+permalink: developer/developer_information/widgets/EcoPortal
 nav_order: 3
 ---
 
