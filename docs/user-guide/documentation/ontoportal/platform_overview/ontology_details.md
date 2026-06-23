@@ -11,17 +11,17 @@ nav_order: 3
 
 
 ## Semantic Artefact details
-{% include shared_doc/platform_overview/ontology_details/sa_details_main.md  %}
-{% include shared_doc/platform_overview/ontology_details/sa_details_screenshot.md  %}
+{% include shared_user/platform_overview/ontology_details/sa_details_main.md  %}
+{% include shared_user/platform_overview/ontology_details/sa_details_screenshot.md  %}
 
 ## Metadata Summary
-{% include shared_doc/platform_overview/ontology_details/summary/index.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_metrics_1.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_metrics_2.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_metrics_3.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_metrics_4.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_metrics_5.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_metrics_6.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/index.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_metrics_1.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_metrics_2.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_metrics_3.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_metrics_4.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_metrics_5.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_metrics_6.md  %}
 ### Submissions
 ![Submissions table]({{site.figures_link}}/{{page.portal}}/submissions_table.png)
 
@@ -31,12 +31,12 @@ In the submission area, all submissions made for that {{ page.atom }} are availa
 - Uploaded: shows the initial publication date (mm/dd/yy) of the resource in {{ page.portal }} (automatically assigned by the system);
 - Downloads: allows the download of the resource in different formats SKOS, OBO, UMLS, OWL, CSV, RDF/XML, depending on the representation language of the resource. Furthermore, when more submissions occur for the same resource, the system performs an automatic download report (Diff) of the differences between the submitted versions.
 
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_views.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_projects.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_views.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_projects.md  %}
 
 
 ## Menu
-{% include shared_doc/platform_overview/ontology_details/menu/index.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/index.md  %}
 ### Classes
 On the summary page of the {{ page.atom }}, by clicking on tab “Classes”, it is shown:
 - on the left side, different views of the resource. If it is an ontology, you will see the “Hierarchical view”, in which classes are organised in a tree-like structure, and the “Date view”, which displays classes based on their creation and modification dates (if these were defined). In the case of a thesaurus the “Collection view” will also be available. In addition, close to the search bar, there is a filter to select different schemes eventually available within a thesaurus;
@@ -56,7 +56,7 @@ On the summary page of the {{ page.atom }}, by clicking on tab “Classes”, it
 Logged in users can click on the "Create new Mapping" button to manually insert mappings by filling in the following fields: target {{ page.atom }} or view; target class; details; comment; mapping relation type.
 ![View classes of a specific {{ page.atom }} - mappings]({{site.figures_link}}/{{page.portal}}/ontology_mappings.png)
 
-{% include shared_doc/platform_overview/ontology_details/menu/menu_properties.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_notes.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_mappings.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_widgets.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_properties.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_notes.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_mappings.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_widgets.md  %}

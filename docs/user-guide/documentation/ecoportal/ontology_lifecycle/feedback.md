@@ -10,4 +10,4 @@ nav_order: 5
 
 
 
-{% include shared_doc/ontology_lifecycle/feedback.md  %}
+{% include shared_user/ontology_lifecycle/feedback.md  %}

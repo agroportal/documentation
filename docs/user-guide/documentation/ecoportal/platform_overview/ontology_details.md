@@ -11,15 +11,15 @@ nav_order: 3
 
 
 ## Semantic artefact detail page
-{% include shared_doc/platform_overview/ontology_details/sa_details_main.md  %}
-{% include shared_doc/platform_overview/ontology_details/sa_details_screenshot.md  %}
+{% include shared_user/platform_overview/ontology_details/sa_details_main.md  %}
+{% include shared_user/platform_overview/ontology_details/sa_details_screenshot.md  %}
 
 ### Summary
-{% include shared_doc/platform_overview/ontology_details/sa_details_side.md  %}
+{% include shared_user/platform_overview/ontology_details/sa_details_side.md  %}
 
 #### Metadata export
-{% include shared_doc/platform_overview/ontology_details/summary/index.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_fair.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/index.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_fair.md  %}
 
 ### Metrics
 This section describes the metrics that {{ page.portal }} computes for each semantic artefact (Figure 15). Metrics start to be computed when a semantic artefact is uploaded and they are part of the [EcoPortal Metadata Schema]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/metadata_schema.md %}). By clicking on the window icon next to “Classes”, “Individuals” and “Properties”, users can access the graph showing the evolution of the number of classes/individuals/properties of the selected semantic artefact.
@@ -98,18 +98,18 @@ If a given semantic artefact has more than 200 classes identified for a metric, 
 - alltriggered: it means that every class in the semantic artefact matched this metric.
 
 
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_submissions.md  %}
-{% include shared_doc/platform_overview/ontology_details/summary/summary_metadata_views.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_submissions.md  %}
+{% include shared_user/platform_overview/ontology_details/summary/summary_metadata_views.md  %}
 
 
 ## Menu
-{% include shared_doc/platform_overview/ontology_details/menu/index.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_classes.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_properties.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_notes.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_mappings.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_schemes.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_collections.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_widgets.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_sparql.md  %}
-{% include shared_doc/platform_overview/ontology_details/menu/menu_check.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/index.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_classes.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_properties.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_notes.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_mappings.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_schemes.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_collections.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_widgets.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_sparql.md  %}
+{% include shared_user/platform_overview/ontology_details/menu/menu_check.md  %}

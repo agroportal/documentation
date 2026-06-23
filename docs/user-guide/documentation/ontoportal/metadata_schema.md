@@ -8,4 +8,4 @@ nav_order: 3
 ---
 
 
-{% include shared_doc/metadata_schema/BioPortal.md  %}
+{% include shared_user/metadata_schema/BioPortal.md  %}

@@ -10,18 +10,18 @@ nav_order: 2
 
 
 
-{% include shared_doc/platform_overview/tools/tools.md  %}
+{% include shared_user/platform_overview/tools/tools.md  %}
 
 ### Browse
-{% include shared_doc/platform_overview/tools/browse/browse.md  %}
-{% include shared_doc/platform_overview/tools/browse/filters.md  %}
-{% include shared_doc/platform_overview/tools/browse/submit.md  %}
+{% include shared_user/platform_overview/tools/browse/browse.md  %}
+{% include shared_user/platform_overview/tools/browse/filters.md  %}
+{% include shared_user/platform_overview/tools/browse/submit.md  %}
 
 ### Search
-{% include shared_doc/platform_overview/tools/search/search.md  %}
+{% include shared_user/platform_overview/tools/search/search.md  %}
 
 ### Annotator
-{% include shared_doc/platform_overview/tools/annotator/annotator.md  %}
+{% include shared_user/platform_overview/tools/annotator/annotator.md  %}
 
 ### Recommender
 

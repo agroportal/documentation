@@ -10,14 +10,14 @@ nav_order: 1
 
 
 
-{% include shared_doc/platform_overview/homepage/index-ecoportal.md  %}
+{% include shared_user/platform_overview/homepage/index-ecoportal.md  %}
 
 ### Search and Metrics
-{% include shared_doc/platform_overview/homepage/search_and_metrics.md  %}
+{% include shared_user/platform_overview/homepage/search_and_metrics.md  %}
 
 ### O'FAIRe tool
-{% include shared_doc/platform_overview/homepage/ofaire.md  %}
+{% include shared_user/platform_overview/homepage/ofaire.md  %}
 
 ### Account settings
-{% include shared_doc/platform_overview/homepage/account_settings.md  %}
+{% include shared_user/platform_overview/homepage/account_settings.md  %}
 

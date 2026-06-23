@@ -11,5 +11,5 @@ nav_order: 1
 
 ## API key
 
-{% include shared_doc/developer_guide/api_key.md  %}
-{% include shared_doc/developer_guide/api_key_examples.md  %}
+{% include shared_user/developer_guide/api_key.md  %}
+{% include shared_user/developer_guide/api_key_examples.md  %}

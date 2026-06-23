@@ -11,4 +11,4 @@ nav_order: 5
 
 
 ## Developer guide
-{% include shared_doc/developer_guide/index.md %}
+{% include shared_user/developer_guide/index.md %}

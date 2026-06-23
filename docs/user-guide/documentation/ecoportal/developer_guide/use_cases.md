@@ -10,4 +10,4 @@ nav_order: 2
 
 
 
-{% include shared_doc/developer_guide/usecases.md  %}
+{% include shared_user/developer_guide/usecases.md  %}

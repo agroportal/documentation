@@ -30,7 +30,7 @@ The files are structured as follows:
 
 ### How to add a new shared section?
 
-1. Create a new file with the extension `.md` within this path: `shared_doc/chapter_name/section_name/sub_section_name.md`
+1. Create a new file with the extension `.md` within this path: `shared_user/chapter_name/section_name/sub_section_name.md`
 2. Populate it with the desired content.
 3. Instead of writing "ontology" or "semantic artefact", write `{% raw %}{{ page.atom }}{% endraw %}` instead (or `{% raw %}{{ page.atoms }}{% endraw %}` for the plural form). Each portal can then decide which name they prefer to use.
 
@@ -38,7 +38,7 @@ The files are structured as follows:
 
 1. Create a new file with the extension `.md` within this path: `docs/user-guide/documentation/portal_name/chapter_name/section_name.md`
 
-2. Inside this file, use this command: `{% raw %}{% include shared_doc/chapter_name/section_name/sub_section_name.md %}{% endraw %}` to include the desired file.
+2. Inside this file, use this command: `{% raw %}{% include shared_user/chapter_name/section_name/sub_section_name.md %}{% endraw %}` to include the desired file.
 
 3. To include multiple files, simply repeat the same command, specifying the correct file names each time.
 

@@ -10,6 +10,6 @@ nav_order: 1
 
 
 
-{% include shared_doc/platform_overview/homepage/index-ecoportal.md  %}
+{% include shared_user/platform_overview/homepage/index-ecoportal.md  %}
 
 

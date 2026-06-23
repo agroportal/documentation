@@ -8,4 +8,4 @@ nav_order: 3
 ---
 
 
-{% include shared_doc/metadata_schema/MOD.md  %}
+{% include shared_user/metadata_schema/MOD.md  %}

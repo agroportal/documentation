@@ -10,5 +10,5 @@ nav_order: 1
 
 
 
-{% include shared_doc/developer_guide/api_key.md  %}
-{% include shared_doc/developer_guide/api_key_examples.md  %}
+{% include shared_user/developer_guide/api_key.md  %}
+{% include shared_user/developer_guide/api_key_examples.md  %}

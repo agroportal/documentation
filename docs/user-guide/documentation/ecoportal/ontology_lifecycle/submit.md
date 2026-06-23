@@ -10,5 +10,5 @@ nav_order: 3
 
 
 
-{% include shared_doc/ontology_lifecycle/submit_1.md  %}
-{% include shared_doc/ontology_lifecycle/submit_2.md  %} (semantics@lifewatch.eu).
+{% include shared_user/ontology_lifecycle/submit_1.md  %}
+{% include shared_user/ontology_lifecycle/submit_2.md  %} (semantics@lifewatch.eu).

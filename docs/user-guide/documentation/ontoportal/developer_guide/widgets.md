@@ -10,8 +10,8 @@ nav_order: 3
 
 
 
-{% include shared_doc/developer_guide/widgets_intro.md  %}
-{% include shared_doc/developer_guide/widgets_search.md  %}
-{% include shared_doc/developer_guide/widgets_term_selection.md  %}
-{% include shared_doc/developer_guide/widgets_tree.md  %}
-{% include shared_doc/developer_guide/widgets_visualization.md  %}
+{% include shared_user/developer_guide/widgets_intro.md  %}
+{% include shared_user/developer_guide/widgets_search.md  %}
+{% include shared_user/developer_guide/widgets_term_selection.md  %}
+{% include shared_user/developer_guide/widgets_tree.md  %}
+{% include shared_user/developer_guide/widgets_visualization.md  %}

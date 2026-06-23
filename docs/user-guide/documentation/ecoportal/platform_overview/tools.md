@@ -19,10 +19,10 @@ EcoPortal provides different tools to access, use and manage semantic artefacts 
 All information available through the EcoPortal website is also available through the [REST API documentation]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/developer_guide/api_key.md %}).
 
 
-{% include shared_doc/platform_overview/tools/tools.md  %}
+{% include shared_user/platform_overview/tools/tools.md  %}
 
 ### Browse
-{% include shared_doc/platform_overview/tools/browse/browse.md  %}
+{% include shared_user/platform_overview/tools/browse/browse.md  %}
 
 - _Name_: alphabetical order;
 - _Classes count_: number of classes;
@@ -42,19 +42,19 @@ For more information about publishing a new {{page.atom}} in {{ page.portal }}, 
 
 
 ### Search
-{% include shared_doc/platform_overview/tools/search/search.md  %}
+{% include shared_user/platform_overview/tools/search/search.md  %}
 
 ### Annotator
-{% include shared_doc/platform_overview/tools/annotator/annotator.md  %}
+{% include shared_user/platform_overview/tools/annotator/annotator.md  %}
 
 ### Mappings
-{% include shared_doc/platform_overview/tools/mapping/mappings.md  %}
-{% include shared_doc/platform_overview/tools/mapping/sources.md  %}
+{% include shared_user/platform_overview/tools/mapping/mappings.md  %}
+{% include shared_user/platform_overview/tools/mapping/sources.md  %}
 
 ### Recommender
-{% include shared_doc/platform_overview/tools/recommender/recommender.md  %}
+{% include shared_user/platform_overview/tools/recommender/recommender.md  %}
 
 ### VocBench
-{% include shared_doc/platform_overview/tools/vocbench/vocbench.md  %}
+{% include shared_user/platform_overview/tools/vocbench/vocbench.md  %}
 
 
