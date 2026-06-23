@@ -42,6 +42,6 @@ In the menu section (Figure 10.b), users can access:
 - [SPARQL](https://vocbench.uniroma2.it/doc/user/sparql.jsf) enable users to access to the SPARQL query editor of the resource;
 - [Tools](https://vocbench.uniroma2.it/doc/user/tools.jsf) with a drop down menu showing some tools that expand the VocBench core capabilities.
 
-The official VocBench documentation can be found at the following [link](http://vocbench.uniroma2.it/doc/). For a detailed description of the VocBench version developed within EcoPortal, please refer to the following [section]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/ontology_lifecycle/submit.md %}).
+The official VocBench documentation can be found at the following [link](http://vocbench.uniroma2.it/doc/). For a detailed description of the VocBench version developed within EcoPortal, please refer to the following [section]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/ontology_lifecycle/submit.md %}).
 
 Note: At the moment, users must register separately to access VocBench and other {{ page.portal }} services.

@@ -16,7 +16,7 @@ EcoPortal provides different tools to access, use and manage semantic artefacts 
 - [receive recommendations](#recommender) on which semantic artefacts are most relevant for a given corpus;
 - [annotate text](#annotator) with terms from semantic artefacts;
 - [create and edit semantic artefacts](#vocbench) with VocBench Editor.
-All information available through the EcoPortal website is also available through the [REST API documentation]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/developer_guide/api_key.md %}).
+All information available through the EcoPortal website is also available through the [REST API documentation]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/developer_guide/api_key.md %}).
 
 
 {% include shared_doc/platform_overview/tools/tools.md  %}
@@ -38,7 +38,7 @@ To access {{page.atoms}} through the API, see our [Resources REST API documentat
 
 In the browse page, the “Submit new {{page.atom}}” button is also available on the upper-left part of the page, but users need to be logged in to perform this operation.
 
-For more information about publishing a new {{page.atom}} in {{ page.portal }}, please visit the [guide]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/ontology_lifecycle/submit.md %}).
+For more information about publishing a new {{page.atom}} in {{ page.portal }}, please visit the [guide]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/ontology_lifecycle/submit.md %}).
 
 
 ### Search

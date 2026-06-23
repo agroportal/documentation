@@ -4,7 +4,7 @@ To upload mappings, use the “Upload mappings” button. A valid file format ex
 
 Mappings can be searched in two ways:
 
-- Find mappings of classes/concepts from the “__Bubble view__”. Each bubble is a semantic artefact and its size represents the number of mappings available (Figure 6). After selecting two semantic artefacts, a box will appear displaying the mappings between those two artefacts (Figure 7). Select the desired class/concept to view a table with the same information as shown [here]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/platform_overview/ontology_details.md %}). 
+- Find mappings of classes/concepts from the “__Bubble view__”. Each bubble is a semantic artefact and its size represents the number of mappings available (Figure 6). After selecting two semantic artefacts, a box will appear displaying the mappings between those two artefacts (Figure 7). Select the desired class/concept to view a table with the same information as shown [here]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/platform_overview/ontology_details.md %}). 
 - Browse mappings between classes/concepts in different semantic artefacts from the “__Table view__” by selecting the semantic artefact from the drop-down menu. The results table will show all the semantic artefacts to which the selected resource is mapped with and the number of existing mappings (minimum one) (Figure 8). Select a semantic artefact from this table to browse the mappings between the two semantic artefacts.
 
 To access mappings from the API, please see our [Mappings REST API documentation]().

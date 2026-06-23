@@ -1,4 +1,4 @@
-Once the selected {{ page.atom }} has been opened, the summary page shows the different sections containing its [description]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/metadata_schema.md %}) (Figure 12). On the left are displayed:
+Once the selected {{ page.atom }} has been opened, the summary page shows the different sections containing its [description]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/metadata_schema.md %}) (Figure 12). On the left are displayed:
 - A [menu](#summary) with different tabs;
 - general information box;
 - links to the homepage, associated publications and documentation, SPARQL endpoint, download buttons of the {{page.atom}} and links to the platform’s social media;

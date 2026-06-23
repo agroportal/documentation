@@ -2,10 +2,10 @@
 
 The {{ page.portal }} homepage (Figure 1) consists of:
 - a header containing the logo on the left and the [navigation bar](#navigation-bar) on the right;
-- a [search bar]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/platform_overview/tools.md %}#search) to quickly search for terms or for semantic artefacts by entering a free text. The autocomplete functionality will support the quest by suggesting terms or semantic artefacts available within the portal;
+- a [search bar]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/platform_overview/tools.md %}#search) to quickly search for terms or for semantic artefacts by entering a free text. The autocomplete functionality will support the quest by suggesting terms or semantic artefacts available within the portal;
 - some statistical information, provided as bubbles cloud, indicating the number of visits for the EcoPortal semantic artefacts;
 - EcoPortal metrics such as number of published resources, number of classes, etc.;
-- a [recommender]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/platform_overview/tools.md %}) and [annotator]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/platform_overview/tools.md %}) box;
+- a [recommender]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/platform_overview/tools.md %}) and [annotator]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/platform_overview/tools.md %}) box;
 - the [O’FAIRe](#ofaire-tool) tool with the average FAIR score of the semantic artefacts published within EcoPortal;
 - a news box displaying the most recent posts of LifeWatch ERIC;
 - the links to other OntoPortal instances;
@@ -50,7 +50,7 @@ _Figure 2: Account setting page_
 ### O’FAIRe tool
 The Ontology FAIRness Evaluator (O’FAIRe) tool is a web service that performs an automatic FAIRness evaluation of semantic artefacts by analysing metadata fields associated with particular questions corresponding to each FAIR principle and sub-principle.
 
-The tool automatically executes the tests and evaluates how the semantic artefacts respond to the questions, providing a global normalised FAIR score associated with some basic statistics. To better understand which are the features of the tool and how the FAIRness evaluation is executed for each semantic artefact, please go [here]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/platform_overview/ontology_details.md %}). To learn more about the tool please visit the [GitHub page](https://github.com/agroportal/fairness).
+The tool automatically executes the tests and evaluates how the semantic artefacts respond to the questions, providing a global normalised FAIR score associated with some basic statistics. To better understand which are the features of the tool and how the FAIRness evaluation is executed for each semantic artefact, please go [here]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/platform_overview/ontology_details.md %}). To learn more about the tool please visit the [GitHub page](https://github.com/agroportal/fairness).
 
 ### Footer
 

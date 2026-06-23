@@ -22,7 +22,7 @@ On the summary page of the semantic artefact, by clicking on the tab “Classes/
     - Type: the mappings can be internal to the portal or external to the portal;
 
 Logged in users can click on the "Create new mapping" button to manually insert mappings by selecting the mapping type (i.e. Internal, InterPortal or External) and filling in the following fields: target class, details, mapping description, contact info, source name, comment, mapping relation type.
-For more information about the mapping “Source” click [here]({{ site.baseurl }}{% link docs/users-guide-docs/documentation/ecoportal/platform_overview/tools.md %}#mappings).
+For more information about the mapping “Source” click [here]({{ site.baseurl }}{% link docs/user-guide/documentation/ecoportal/platform_overview/tools.md %}#mappings).
 
 ![View classed of a specific semantic artefact - mappings]({{site.figures_link}}/{{page.portal}}/Figure19.png)
 {: .text-center }

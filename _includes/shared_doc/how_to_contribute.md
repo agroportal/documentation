@@ -6,7 +6,7 @@ If you don't know how to use Git to edit this documentation, please use the foll
 The files are structured as follows:
 
 - Shared content across all portals is located in the folder: `_includes/shared_doc`
-- Each portal has its own folder named with the name of the portal in: `docs/users-guide-docs/documentation`
+- Each portal has its own folder named with the name of the portal in: `docs/user-guide/documentation`
 - Figures can be found in the folder: `assets/images/figures/ontoportal/PortalName` (create a new folder if needed)
 - From each portal's specific file, we can include the shared documentation to add to it or incorporate specific content.
 
@@ -36,7 +36,7 @@ The files are structured as follows:
 
 ### How to use this shared content for different portals?
 
-1. Create a new file with the extension `.md` within this path: `docs/users-guide-docs/documentation/portal_name/chapter_name/section_name.md`
+1. Create a new file with the extension `.md` within this path: `docs/user-guide/documentation/portal_name/chapter_name/section_name.md`
 
 2. Inside this file, use this command: `{% raw %}{% include shared_doc/chapter_name/section_name/sub_section_name.md %}{% endraw %}` to include the desired file.
 
