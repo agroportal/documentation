@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Create and edit semantic artefacts
 summary: How to create and edit semantic artefacts
 layout: default

@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Update
 summary: How to update a submitted semantic artefact
 layout: default

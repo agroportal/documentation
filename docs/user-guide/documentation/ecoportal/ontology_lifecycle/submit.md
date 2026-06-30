@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Submit new semantic artefacts
 summary: How to submit a new semantic artefact
 layout: default

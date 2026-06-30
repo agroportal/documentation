@@ -1,5 +1,5 @@
 ---
-title: OntoPortal overview
+title: Platform overview
 summary: Overview page
 layout: default
 parent: User Guide

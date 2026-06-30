@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Details page
 summary: Details page of semantic artefacts
 layout: default

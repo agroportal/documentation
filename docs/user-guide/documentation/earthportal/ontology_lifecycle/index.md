@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Semantic artefacts lifecycle @EarthPortal
 summary: Describes how to manage semantic artefacts on the portal
 layout: default

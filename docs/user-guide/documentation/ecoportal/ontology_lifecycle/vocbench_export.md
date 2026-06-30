@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Export a semantic artefact from VocBench
 summary: How to export semantic artefacts from VocBench
 layout: default

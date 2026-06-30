@@ -1,5 +1,5 @@
 ---
-title: Semantic artefacts lifecycle @OntoPortal
+title: Semantic artefacts lifecycle
 summary: Describes how to manage ontologies on the portal
 layout: default
 parent: User Guide

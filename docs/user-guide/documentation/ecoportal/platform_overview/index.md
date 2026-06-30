@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: EcoPortal overview
 summary: Overview page
 layout: default
