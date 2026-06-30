@@ -2,41 +2,34 @@
 
 ## Code Release Histories
 
-The {{site.opva}} code is based on the latest BioPortal code. The Release History for BioPortal is available in the [BioPortal Release Notes](https://www.bioontology.org/wiki/BioPortal_Release_Notes). 
+The {{site.opva}} code is based on the latest BioPortal code. To view current release notes for BioPortal, please refer to one of the following pages:
 
+* [BioPortal REST API release notes](https://github.com/ncbo/ontologies_api/releases)
+* [BioPortal web application release notes](https://github.com/ncbo/bioportal_web_ui/releases)
 
-
-
-
-The Release History for Virtual Appliance versions 2.4 and 2.5 is available in the [BioPortal Virtual Appliance Release Notes](https://www.bioontology.org/wiki/BioPortal_Virtual_Appliance_Release_Notes).
-
-The Release History for Virtual Appliance version 3.0 is available in the 
-[OntoPortal Virtual Appliance Release Notes](https://github.com/ncbo/virtual_appliance/blob/3.0/CHANGELOG.md).
+Previous release history for BioPortal is available in the [BioPortal Release Notes](https://www.bioontology.org/wiki/BioPortal_Release_Notes). 
 
 {: .highlight }
 If you are running the code corresponding to AgroPortal, release notes describing features implemented along the way (but not always reported in the BioPortal codebase) are available [here](https://wiki.agroportal.eu/s/d77f1b99-60fb-4fdb-982b-927204f1c1e3).
 
 
+## OntoPortal Virtual Appliance Release 4.0 (April 2025) and 4.1 (May 2025)
+
+No more Amazon AMI distribution.
+
 ## OntoPortal Virtual Appliance Release 3.0 (May 2020)
 
-The OntoPortal Virtual Appliance 3.0 is again released as a VMWare OVF 
-and as an Amazon AMI. 
+The {{site.opva}} 3.0 was released as a VMWare OVF and as an Amazon AMI. 
 It contains a significant number of feature improvements and usability upgrades, 
 and several adaptations targeting the deployers of public Appliance instances. 
 A major upgrade for further experimentation is the ability to test 
-a different RDF backend store, 
-as we offer AllegroGraph compatibility for the first time in the 3.0 release.
-
-With the pending formal introduction of the [OntoPortal Alliance](https://ontoportalalliance.org),
-we created the [GitHub OntoPortal organization](https://github.com/ontoportal), 
-and are focusing on building an international sustainable community
-of OntoPortal Virtual Appliance users and maintainers.
-This documentation is one of the first releases 
-of OntoPortal Virtual Appliance content on the GitHub repository.
+a different RDF backend store, as we offer AllegroGraph compatibility for the first time in the 3.0 release.
 
 This release also finally offers more complete understanding of Appliance use,
-as all Appliance users will register their use of the software
-in order to continue operating it in a nag-free way.
+as all Appliance users will register their use of the software in order to continue operating it in a nag-free way.
+
+The Release History for {{site.opva}} version 3.0 is available in the 
+[{{site.opva}} Release Notes](https://github.com/ncbo/virtual_appliance/blob/3.0/CHANGELOG.md).
 
 ## OntoPortal Virtual Appliance Release 2.5 (February 2018)
 
@@ -45,6 +38,9 @@ The OntoPortal Virtual Appliance 2.5 is the (rebranded) update of the BioPortal 
 This version was released as a VmWare package, but never as an AWS Machine Instance. A later minor version release was the first release to include a 'call home' feature, enabling users to be aware of updates and BMIR to be aware of the number of active deployed (version 2.5) appliances.
 
 Updates in this final 2.5 release: Ruby upgraded to v2.3.6, Web UI updated to v5.4.4, API updated to v5.6.3. As with the release candidates below, this release was only available as an OVF package; an Amazon Machine Instance format was never released for 2.5.
+
+The Release History for Appliance versions 2.4 and 2.5 is available in the [BioPortal Virtual Appliance Release Notes](https://www.bioontology.org/wiki/BioPortal_Virtual_Appliance_Release_Notes).
+
 
 ### Release candidates leading to 2.5
 
