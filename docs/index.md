@@ -14,6 +14,16 @@ OntoPortal is an open-source software stack for building ontology and semantic a
 
 The [OntoPortal Alliance](https://ontoportal.org) is a consortium of research and infrastructure teams dedicated to promoting semantic services across scientific disciplines. It develops and maintains the shared OntoPortal open-source software, currently powering repositories such as BioPortal, AgroPortal, EcoPortal, and MatPortal, as well as over 135 registered appliance installations worldwide. The Alliance operates as an open community, coordinated through GitHub and sustained through annual workshops.
 
+### How this documentation is organized
+
+This documentation is structured into three complementary guides, each targeting a different audience:
+
+- 📖 **[User Guide]({{site.baseurl}}/user-guide)** — for **end users** who browse, search, and exploit ontologies and semantic artefacts through an OntoPortal portal.
+- 🛠️ **[Administration Guide]({{site.baseurl}}/administration-guide)** — for **administrators** who install, configure, and maintain their own OntoPortal appliance.
+- 💻 **[Developer Guide]({{site.baseurl}}/developer-guide)** — for **developers** who integrate OntoPortal into their applications (APIs, widgets) or contribute to the software and this documentation.
+
+> 💡 The **User Guide** may be customized for a specific OntoPortal instance (e.g., AgroPortal, EcoPortal, EarthPortal). Select your portal at the top of the User Guide; if your portal does not provide a customized version, refer to the **default OntoPortal** User Guide.
+
 ### License
 
 The OntoPortal software is distributed under the [BSD-2-Clause license](https://opensource.org/license/bsd-2-clause). For license details of each component, see the corresponding code repositories.
