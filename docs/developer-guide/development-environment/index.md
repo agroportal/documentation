@@ -11,7 +11,7 @@ nav_order: 3
 
 # Set up a development environment for Ontoportal 
 
-Depending on the work to be done, you will need either to set up the [Frontend]({{site.baseurl}}/docs/developer-guide/development-environment/frontend_environment) 
-or [Backend]({{site.baseurl}}/docs/developer-guide/development-environment/backend_environment) environment or both.
+Depending on the work to be done, you will need either to set up the [Frontend]({{site.baseurl}}/developer-guide/development-environment/frontend_environment) 
+or [Backend]({{site.baseurl}}/developer-guide/development-environment/backend_environment) environment or both.
 
 
