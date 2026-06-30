@@ -38,9 +38,61 @@ The OntoPortal Virtual Appliance 2.5 is the (rebranded) update of the BioPortal 
 
 This version was released as a VmWare package, but never as an AWS Machine Instance. A later minor version release was the first release to include a 'call home' feature, enabling users to be aware of updates and BMIR to be aware of the number of active deployed (version 2.5) appliances.
 
+Updates in this final 2.5 release: Ruby upgraded to v2.3.6, Web UI updated to v5.4.4, API updated to v5.6.3. As with the release candidates below, this release was only available as an OVF package; an Amazon Machine Instance format was never released for 2.5.
+
+### Release candidates leading to 2.5
+
+* **2.5 RC3 (October 2017)**: Web UI updated to v5.2.0 with an appliance-specific UI layout; the product was rebranded from "NCBO BioPortal Appliance" to "OntoPortal Appliance".
+* **2.5 RC2 (August 2017)**: Solr updated to v6.6, now running as a stand-alone service instead of inside a Tomcat container; Web UI updated to v5.1.2; API updated to v5.4.1. Known issues: the Web UI layout was not yet customized for the appliance (still showed bioportal.bioontology.org branding), and the header menu linked to a non-functioning resource index tool.
+* **2.5 RC1 (August 2017)**: Web UI updated to v5.1.1 with a major interface overhaul, Rails 4.x support, and the Bootstrap framework; the bundled UMLS Semantic Network (STY) ontology was updated to 2016AA; included experimental scripts for minor component updates. Same known issues as RC2.
+
+### Components (2.5 RC1)
+
+* bioportal_web_ui v5.1.1
+* ontologies_api v5.4.0
+* ncbo_cron v5.4.0
+
+### Application Stack (2.5 RC1)
+
+* CentOS 6.9
+* Apache httpd 2.2.15
+* Apache Tomcat 6
+* Solr 4.10.4
+* MySQL 5.1
+* Ruby 2.3.3
+* Passenger 5.1.6
+* Redis 3.2.9
+* Memcached 1.4.4
+* 4store v1.1.5-122-g1788d29
+* nginx 1.12.1
+
 ## BioPortal Virtual Appliance Release 2.4 (April 2015)
 
 Released as both a VMWare Virtual Appliance OVF, and as an Amazon Web Service AMI, this appliance was based on BioPortal 4.x series software. The appliance included an advanced ontology recommender as well as several other more advanced versions of BioPortal capabilities.
+
+Release 4.15 was a silent release containing bug fixes only; patch numbers below indicate subsequent updates.
+
+### Components
+
+* Ontologies API (REST service) v4.15.3
+* Annotator
+* Recommender
+* BioPortal Web User Interface v4.15.5
+* BioMixer
+
+### Application Server Stack
+
+* CentOS 6.6
+* Apache httpd 2.2.15
+* Apache Tomcat 6.0.24
+* Solr 4.10.4
+* MySQL 5.1.73
+* Ruby 2.1.5
+* Passenger 4.0.57
+* Redis 2.8.18
+* Memcached 1.4.4
+* 4store v1.1.5-122-g1788d29
+* nginx 1.6.3
 
 ## NCBO Virtual Appliance (original release?) (pre-October 2010)
 
