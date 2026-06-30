@@ -1,4 +1,4 @@
-# Managing Ontologies in OntoPortal
+# Managing Content
   
 The {{site.opva}} comes with a few example ontologies already installed.
 You are expected to populate the site with the ontologies that interest you.

@@ -1,5 +1,5 @@
 ---
-title: Managing Ontologies in OntoPortal
+title: Managing Content
 layout: default
 summary: Working with ontologies in the OntoPortal Appliance
 parent: Administration Guide

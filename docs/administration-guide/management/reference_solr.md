@@ -4,7 +4,7 @@ layout: default
 summary: Advanced information about Solr
 status: Preliminary
 nav_order: 10
-parent: Managing Your System
+parent: System Management
 grand_parent: Administration Guide
 permalink: /administration-guide/management/solr
 version: "v32"

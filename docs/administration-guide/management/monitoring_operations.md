@@ -4,7 +4,7 @@ layout: default
 summary: Ways to monitor the OntoPortal Appliance
 status: Preliminary
 nav_order: 1
-parent: Managing Your System
+parent: System Management
 grand_parent: Administration Guide
 permalink: /administration-guide/management/monitoring_operations
 version: "v32"

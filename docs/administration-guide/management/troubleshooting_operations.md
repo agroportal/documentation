@@ -4,7 +4,7 @@ layout: default
 summary: Solving problems with the Appliance
 status: In progress
 nav_order: 6
-parent: Managing Your System
+parent: System Management
 grand_parent: Administration Guide
 permalink: /administration-guide/management/troubleshooting_operations
 version: "v32"
