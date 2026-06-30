@@ -3,7 +3,7 @@ title: Enable Recaptcha
 layout: default
 summary: enable Recaptcha verification for forms in Ontoportal 
 status: In progress
-nav_order: 12
+nav_order: 13
 parent: Installing OntoPortal
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/enable_recaptcha

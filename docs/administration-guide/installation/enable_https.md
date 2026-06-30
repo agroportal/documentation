@@ -8,7 +8,7 @@ parent: Installing OntoPortal
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/enable_https
 version: "v32"
-v41_url: /administration/steps/v41
+v41_url: /administration-guide/steps/configure_tls/v41
 ---
 
 {% include admin_nav.html %}
