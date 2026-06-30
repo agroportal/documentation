@@ -1,5 +1,15 @@
 # History
 
+## Background
+
+OntoPortal originates from the NCBO BioPortal software, developed from scratch as a domain-independent, open-source ontology repository platform. After being reused early on by several ad-hoc projects, the technology was packaged in 2012 — with the release of BioPortal 4.0 — as a Virtual Appliance: a virtual server machine embedding the complete code and deployment environment, enabling anyone to set up and customize their own local ontology repository. The technology adopted the name "OntoPortal" in 2018.
+
+In 2015, the SIFR BioPortal prototype was built to develop a French Annotator and experiment with multilingual support in BioPortal. That same year, AgroPortal — the first reuse of the technology to build a free, open, community-driven ontology repository in the spirit of BioPortal, but dedicated to the agri-food domain — was started.
+
+Since 2020, the OntoPortal technology has been adopted by multiple other communities: ecology with EcoPortal, earth sciences with EarthPortal, biodiversity with BiodivPortal, and astronomy with OntoPortal-Astro, among others. This growing federation of independently-operated but technically aligned portals led to the creation of the [OntoPortal Alliance](https://ontoportal.org).
+
+The EOSC-funded FAIR-IMPACT project later worked with several of these communities (AgroPortal, EcoPortal, EarthPortal, OntoPortal-Astro) to consolidate, deploy, and experiment with their semantic artefact catalogues. The project also consolidated the [Metadata for Ontology Description and Publication (MOD)](https://github.com/FAIR-IMPACT/MOD) vocabulary and published a [shared API for semantic artefact catalogues based on MOD](https://github.com/FAIR-IMPACT/MOD-API), now implemented by several OntoPortal-based portals.
+
 ## Code Release Histories
 
 The {{site.opva}} code is based on the latest BioPortal code. To view current release notes for BioPortal, please refer to one of the following pages:
@@ -48,53 +58,11 @@ The Release History for Appliance versions 2.4 and 2.5 is available in the [BioP
 * **2.5 RC2 (August 2017)**: Solr updated to v6.6, now running as a stand-alone service instead of inside a Tomcat container; Web UI updated to v5.1.2; API updated to v5.4.1. Known issues: the Web UI layout was not yet customized for the appliance (still showed bioportal.bioontology.org branding), and the header menu linked to a non-functioning resource index tool.
 * **2.5 RC1 (August 2017)**: Web UI updated to v5.1.1 with a major interface overhaul, Rails 4.x support, and the Bootstrap framework; the bundled UMLS Semantic Network (STY) ontology was updated to 2016AA; included experimental scripts for minor component updates. Same known issues as RC2.
 
-### Components (2.5 RC1)
-
-* bioportal_web_ui v5.1.1
-* ontologies_api v5.4.0
-* ncbo_cron v5.4.0
-
-### Application Stack (2.5 RC1)
-
-* CentOS 6.9
-* Apache httpd 2.2.15
-* Apache Tomcat 6
-* Solr 4.10.4
-* MySQL 5.1
-* Ruby 2.3.3
-* Passenger 5.1.6
-* Redis 3.2.9
-* Memcached 1.4.4
-* 4store v1.1.5-122-g1788d29
-* nginx 1.12.1
-
 ## BioPortal Virtual Appliance Release 2.4 (April 2015)
 
 Released as both a VMWare Virtual Appliance OVF, and as an Amazon Web Service AMI, this appliance was based on BioPortal 4.x series software. The appliance included an advanced ontology recommender as well as several other more advanced versions of BioPortal capabilities.
 
 Release 4.15 was a silent release containing bug fixes only; patch numbers below indicate subsequent updates.
-
-### Components
-
-* Ontologies API (REST service) v4.15.3
-* Annotator
-* Recommender
-* BioPortal Web User Interface v4.15.5
-* BioMixer
-
-### Application Server Stack
-
-* CentOS 6.6
-* Apache httpd 2.2.15
-* Apache Tomcat 6.0.24
-* Solr 4.10.4
-* MySQL 5.1.73
-* Ruby 2.1.5
-* Passenger 4.0.57
-* Redis 2.8.18
-* Memcached 1.4.4
-* 4store v1.1.5-122-g1788d29
-* nginx 1.6.3
 
 ## NCBO Virtual Appliance (original release?) (pre-October 2010)
 
