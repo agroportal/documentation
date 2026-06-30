@@ -1,4 +1,4 @@
-# First Steps - ECHOES
+# Joining the Alliance
 
 ## 1. Fork these 2 projects
 
