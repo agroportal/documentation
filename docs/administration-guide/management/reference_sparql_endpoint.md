@@ -4,7 +4,7 @@ layout: default
 summary: About the OntoPortal SPARQL endpoint
 status: Preliminary
 nav_order: 13
-parent: Managing Your System
+parent: System Management
 grand_parent: Administration Guide
 permalink: /administration-guide/management/reference_sparql_endpoint
 version: "v32"

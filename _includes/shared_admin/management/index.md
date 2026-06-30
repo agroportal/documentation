@@ -1,4 +1,4 @@
-# Managing Your System
+# System Management
 
 The {{site.opva}} requires some routine operational monitoring,
 occasional troubleshooting or corrective actions (more often if heavily used),

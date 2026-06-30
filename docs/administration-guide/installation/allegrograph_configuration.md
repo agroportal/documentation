@@ -4,7 +4,7 @@ layout: default
 summary: Configuring your system to run AllegroGraph
 status: Needs revision
 nav_order: 11
-parent: Installing OntoPortal
+parent: Installation Steps
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/allegrograph_configuration
 version: "v32"

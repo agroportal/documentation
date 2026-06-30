@@ -4,7 +4,7 @@ layout: default
 summary: Configuring more advanced settings
 status: In progress
 nav_order: 4
-parent: Installing OntoPortal
+parent: Installation Steps
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/advanced_configuration
 version: "v32"

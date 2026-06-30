@@ -4,7 +4,7 @@ layout: default
 summary: How to use the OVF image with your virtualization software
 status: Ready
 nav_order: 9
-parent: Installing OntoPortal
+parent: Installation Steps
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/virtualization_environments
 version: "v32"

@@ -4,7 +4,7 @@ layout: default
 summary: Advanced information about ncbo-cron
 status: Preliminary
 nav_order: 9
-parent: Managing Your System
+parent: System Management
 grand_parent: Administration Guide
 permalink: /administration-guide/management/ncbo_cron
 version: "v32"

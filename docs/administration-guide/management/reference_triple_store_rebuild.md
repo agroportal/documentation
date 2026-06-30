@@ -4,7 +4,7 @@ layout: default
 summary: Advanced information about rebuilding the triple store
 status: Pending
 nav_order: 13
-parent: Managing Your System
+parent: System Management
 grand_parent: Administration Guide
 permalink: /administration-guide/management/reference_triple_store_rebuild
 version: "v32"

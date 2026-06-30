@@ -3,7 +3,7 @@ title: Frequently Asked Questions (FAQ)
 layout: default
 summary: Various common questions about the Appliance
 status: Ready
-nav_order: 5
+nav_order: 6
 parent: Administration Guide
 permalink: /administration-guide/faq
 version: "v32"
