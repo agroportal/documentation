@@ -4,7 +4,7 @@ layout: default
 summary: Configuring OntoPortal for your own project
 status: In progress
 nav_order: 7
-parent: Installing OntoPortal
+parent: Installation Steps
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/branding-customizations
 version: "v32"

@@ -4,7 +4,7 @@ layout: default
 summary: Configuring the various OntoPortal tools
 status: In progress
 nav_order: 6
-parent: Installing OntoPortal
+parent: Installation Steps
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/setting_up_tools
 version: "v32"

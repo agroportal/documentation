@@ -4,7 +4,7 @@ layout: default
 summary: Figuring out why your installation didn't work
 status: In progress
 nav_order: 8
-parent: Installing OntoPortal
+parent: Installation Steps
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/troubleshooting_installations
 version: "v32"

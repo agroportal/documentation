@@ -1,5 +1,5 @@
 ---
-title: Installing OntoPortal
+title: Installation Steps
 layout: default
 summary: Key steps to install the OntoPortal Appliance
 parent: Administration Guide

@@ -3,7 +3,7 @@ title: 4store Configuration
 summary: Configuring your system to use 4store as RDF backend
 layout: default
 nav_order: 12
-parent: Installing OntoPortal
+parent: Installation Steps
 grand_parent: Administration Guide
 permalink: /administration-guide/steps/4store_configuration
 ---
