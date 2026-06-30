@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: EcoPortal Tools
 summary: EcoPortal tools
 layout: default

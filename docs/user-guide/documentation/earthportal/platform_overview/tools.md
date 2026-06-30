@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Tools
 summary: EarthPortal tools
 layout: default

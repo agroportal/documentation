@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Homepage
 summary: EarthPortal homepage
 layout: default

@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 layout: default
 title: About
 permalink: user-guide/BioPortal

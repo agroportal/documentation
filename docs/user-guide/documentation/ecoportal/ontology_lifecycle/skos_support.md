@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: SKOS Support
 summary: How is SKOS supported in EcoPortal
 layout: default

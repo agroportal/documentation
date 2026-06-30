@@ -2,7 +2,7 @@
 title: Tools
 summary: OntoPortal tools
 layout: default
-parent:  OntoPortal overview
+parent:  Platform overview
 grand_parent: User Guide
 permalink: user-guide/platform_overview/tools/OntoPortal
 nav_order: 2

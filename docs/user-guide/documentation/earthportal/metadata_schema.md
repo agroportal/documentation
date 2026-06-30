@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Metadata Schema
 summary: Description of the metadata schema
 layout: default

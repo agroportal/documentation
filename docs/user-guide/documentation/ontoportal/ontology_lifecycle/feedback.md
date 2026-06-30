@@ -2,7 +2,7 @@
 title: Give feedback
 summary: How to to give feedback on ontologies
 layout: default
-parent: Semantic artefacts lifecycle @OntoPortal
+parent: Semantic artefacts lifecycle
 grand_parent: User Guide
 permalink: /user-guide/lifecycle/feedback/OntoPortal
 nav_order: 3

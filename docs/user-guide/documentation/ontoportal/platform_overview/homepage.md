@@ -2,7 +2,7 @@
 title: Homepage
 summary: OntoPortal homepage
 layout: default
-parent:  OntoPortal overview
+parent:  Platform overview
 grand_parent: User Guide
 permalink: user-guide/platform_overview/homepage/OntoPortal
 nav_order: 1

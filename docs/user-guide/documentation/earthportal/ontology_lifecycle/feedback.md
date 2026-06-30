@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Give feedback
 summary: How to to give feedback on semantic artefacts
 layout: default

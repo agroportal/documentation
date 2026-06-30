@@ -1,4 +1,5 @@
 ---
+nav_exclude: true
 title: Homepage
 summary: EcoPortal homepage
 layout: default
