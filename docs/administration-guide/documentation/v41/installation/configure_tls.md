@@ -4,7 +4,7 @@ summary: Manage and replace TLS certificates
 layout: default
 nav_exclude: true
 version: "v41"
-v32_url: /administration/steps/
+v32_url: /administration-guide/steps/enable_https
 permalink: /administration-guide/steps/configure_tls/v41
 ---
 
