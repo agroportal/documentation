@@ -20,15 +20,6 @@ without also installing the core OntoPortal software and ontologies.
 See [Accessing the system]({{site.baseurl}}/administration-guide/steps/initial_installation#accessing-the-system)
 
 
-### Is it free to use and do I need a license?
-
-This software is provided by the <a href="https://bmir.stanford.edu">Stanford Center for Biomedical Informatics Research</a> (BMIR) and the <a href="https://ontoportal.org">OntoPortal Alliance</a>. 
-
-To use this software, you must have a license. 
-Licenses are provided free to individual users for their own research,
-and to non-profit and educational institutions. 
-See our <a href="{{site.baseurl}}/administration-guide/general/licensing">licensing page</a> for more information. 
-
 ### How do I enable outgoing emails?
 
 See [Enabling emails]({{site.baseurl}}/administration-guide/steps/initial_configuration#enabling-emails)
