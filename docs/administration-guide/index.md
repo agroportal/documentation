@@ -13,6 +13,7 @@ version: "v32"
 # OntoPortal Administration Guide
 
 Installation and maintenance documentation for OntoPortal. It focuses on system administration.
+This software is provided by the <a href="https://ontoportal.org">OntoPortal Alliance</a>. 
 
 There are different ways to install OntoPortal.
 
