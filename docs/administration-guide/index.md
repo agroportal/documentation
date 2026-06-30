@@ -25,6 +25,13 @@ There are different ways to install OntoPortal.
 
 The documentation generally holds for any version of {{site.opva}} which current version is {{site.release_version}}. When something is specific for a version of the Appliance the page displays alternative pages.
 
+This software is provided by the <a href="https://bmir.stanford.edu">Stanford Center for Biomedical Informatics Research</a> (BMIR) and the <a href="https://ontoportal.org">OntoPortal Alliance</a>. 
+
+To use this software, you must have a license. 
+Licenses are provided free to individual users for their own research,
+and to non-profit and educational institutions. 
+See our <a href="{{site.baseurl}}/administration-guide/general/licensing">licensing page</a> for more information. 
+
 <hr>
 
 <h2 class="text-delta">Table of contents</h2>

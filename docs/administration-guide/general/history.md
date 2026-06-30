@@ -1,5 +1,5 @@
 ---
-title: History of the Virtual Appliance
+title: History
 layout: default
 summary: How the Appliance got to this point
 status: Ready

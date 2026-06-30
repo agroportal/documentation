@@ -37,7 +37,7 @@ The Appliance bundles the following OntoPortal Alliance code repositories, all m
 
 ### Software components
 
-The image also bundles the following third-party software:
+The image also bundles multiple third-party software described in the latest version release notes (see <a href="{{site.baseurl}}/administration-guide/general/history">History</a>)
 
 * RDF stores
   * 4store
