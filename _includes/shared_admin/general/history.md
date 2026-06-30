@@ -1,15 +1,21 @@
-# History of the Virtual Appliance
+# History
 
-## Release Histories
+## Code Release Histories
+
+The {{site.opva}} code is based on the latest BioPortal code. The Release History for BioPortal is available in the [BioPortal Release Notes](https://www.bioontology.org/wiki/BioPortal_Release_Notes). 
+
+
+
+
 
 The Release History for Virtual Appliance versions 2.4 and 2.5 is available in the [BioPortal Virtual Appliance Release Notes](https://www.bioontology.org/wiki/BioPortal_Virtual_Appliance_Release_Notes).
 
 The Release History for Virtual Appliance version 3.0 is available in the 
 [OntoPortal Virtual Appliance Release Notes](https://github.com/ncbo/virtual_appliance/blob/3.0/CHANGELOG.md).
 
-The Virtual Appliance code is based on the latest BioPortal code. 
-* The Release History for BioPortal is available in the [BioPortal Release Notes](https://www.bioontology.org/wiki/BioPortal_Release_Notes). 
-* Detailed release documentation for the front end (UI) repo is available in the [Bioportal_web_ui Release Notes](https://github.com/ncbo/bioportal_web_ui/releases). 
+{: .highlight }
+If you are running the code corresponding to AgroPortal, release notes describing features implemented along the way (but not always reported in the BioPortal codebase) are available [here](https://wiki.agroportal.eu/s/d77f1b99-60fb-4fdb-982b-927204f1c1e3).
+
 
 ## OntoPortal Virtual Appliance Release 3.0 (May 2020)
 
