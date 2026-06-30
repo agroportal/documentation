@@ -1,17 +1,23 @@
-# License Terms
+# Licensing
 
-The source code for the executable OntoPortal Virtual Appliance 
-is provided as open source content under a 2-clause BSD license on a GitHub repository 
-(see Location of Software below). 
+## Location of Open Source Software
 
-Software from other organizations, such as the AllegroGraph graph database, 
-is released using the license that applies to that software (see the [AllegroGraph web site](https://allegrograph.com) for Allegrograph licensing terms).
+The source code for the executable OntoPortal software included in the {{site.opva}}
+is provided as open source content under a 2-clause BSD license.
+
+The Appliance bundles the multiple code repositories, all maintained on <a href="https://github.com/ontoportal">GitHub</a>. For technical coherence, the forks corresponding to BioPortal system (https://github.com/ncbo) are usually taken to package the {{site.opva}} and it is up to you to update the code to the upstream repositories or other branches. 
+
+You are welcome to examine and reuse these repositories, and can submit pull requests against them (see <a href="{{site.baseurl}}/developer-guide/code-of-conduct">Code of Conduct</a>).
+
+Software from other organizations is released using the license that applies to that software. For example, for the AllegroGraph graph database, see [AllegroGraph web site](https://allegrograph.com).
 
 The *packaging* we use to create the Virtual Appliance is not open source,
 and to use this packaged appliance you must obtain a license. 
 (Members of the OntoPortal Alliance have access to and maintain the packaging software.)
 
-**Licenses to use the software are provided free to the following users**:
+## {{site.opva}} License Terms
+
+Licenses to use the software are provided free to the following users:
 * **individual users** for their own research,
 * **non-profit organizations**, and 
 * **educational institutions**. 
@@ -24,7 +30,7 @@ You can do so either by emailing our (public)
 or by registering your appliance (after you install it) at our 
 [OntoPortal License Server](https://license.ontoportal.org). 
 Your registration request will be visible 
-only to  OntoPortal Virtual Appliance license managers,
+only to  {{site.opva}} license managers,
 who should take action within a working day.
 
 If there is a fee involved, a clarification is needed, 
@@ -32,11 +38,9 @@ or you have provided a note with your license request,
 you will be contacted;
 otherwise we will simply issue the requested license.
 
-# License Implementation
+## License Implementation
 
-(See above for a list of the groups who get free licenses.)
-
-The OntoPortal Virtual Appliance requires a current license certificate 
+The {{site.opva}} requires a current license certificate 
 for licensed operation. Without a current certificate, 
 reminders appear at the top of most pages in the repository. 
 While repository functions operate normally, 
@@ -62,21 +66,3 @@ and confirming the correct Appliance ID and license end date, among other things
 If the certificate is not present, or has reached its expiration date, 
 an error message is displayed on each page.
 If the certificate will expire within 30 days, a warning message is displayed.
-
-# Location of Open Source Software
-
-At this time, the source code provided as part of the 
-OntoPortal Virtual Appliance distribution
-is maintained in GitHub repositories under the 
-[BioPortal GitHub project](https://github.com/ncbo). 
-You are welcome to examine and reuse these repositories, 
-and can submit pull requests against them.
-
-Later (possibly still in 2020), we plan for the [OntoPortal Alliance](https://ontoportal.org), 
-of which BMIR is a principal and founding member, 
-to begin maintaining OntoPortal software in the dedicated 
-[OntoPortal GitHub project](https://github.com/ontoportal).
-We will make announcements on the OntoPortal Alliance web site 
-as this content becomes available. 
-We expect the licensing approach for OntoPortal will not be affected by the
-OntoPortal Alliance support for the software.

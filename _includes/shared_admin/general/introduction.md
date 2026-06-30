@@ -43,7 +43,7 @@ The image also bundles the following third-party software:
   * 4store
   * AllegroGraph
 * Application Stack
-  * CentOS 7
+  * Ubuntu
   * Apache HTTPD server
   * Nginx
   * Tomcat
@@ -52,15 +52,6 @@ The image also bundles the following third-party software:
   * Solr
   * mgrep
   * memcache
+  * to be continued...
 
-## What else?
 
-This software is provided by the <a href="https://bmir.stanford.edu">Stanford Center for Biomedical Informatics Research</a> (BMIR) and the <a href="https://ontoportal.org">OntoPortal Alliance</a>. 
-
-To use this software, you must have a license. 
-Licenses are provided free to individual users for their own research,
-and to non-profit and educational institutions. 
-See our <a href="{{site.baseurl}}/administration-guide/general/licensing">licensing page</a> for more information. 
-
-The rest of this manual describes how you can obtain, install, configure, 
-and maintain the OntoPortal Virtual Appliance for your own purposes.

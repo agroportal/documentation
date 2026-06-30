@@ -2,9 +2,9 @@
 
 ## General
 
-### Under what license is the OntoPortal Virtual Appliance released?
+### Under what license is the OntoPortal Virtual Appliance and code is released?
 
-See [License Terms]({{site.baseurl}}/general/licensing/)
+See [Licensing]({{site.baseurl}}/administration-guide/general/licensing)
 
 ### Can I use the Annotator and Recommender on their own?
 
@@ -17,79 +17,89 @@ without also installing the core OntoPortal software and ontologies.
 
 ### How do I access the Virtual Appliance I've just started?
 
-See [Accessing the system]({{site.baseurl}}/steps/initial_installation/#accessing-the-system)
+See [Accessing the system]({{site.baseurl}}/administration-guide/steps/initial_installation#accessing-the-system)
+
+
+### Is it free to use and do I need a license?
+
+This software is provided by the <a href="https://bmir.stanford.edu">Stanford Center for Biomedical Informatics Research</a> (BMIR) and the <a href="https://ontoportal.org">OntoPortal Alliance</a>. 
+
+To use this software, you must have a license. 
+Licenses are provided free to individual users for their own research,
+and to non-profit and educational institutions. 
+See our <a href="{{site.baseurl}}/administration-guide/general/licensing">licensing page</a> for more information. 
 
 ### How do I enable outgoing emails?
 
-See [Enabling emails]({{site.baseurl}}/steps/initial_configuration/#enabling-emails)
+See [Enabling emails]({{site.baseurl}}/administration-guide/steps/initial_configuration#enabling-emails)
 
 ## Ontology Management
 
 ### How do I add or change categories or groups?
 
-See [How do I add or change categories or groups for ontologies?]({{site.baseurl}}/ontologies/managing_ontologies/#how-do-i-add-or-change-categories-or-groups-for-ontologies)
+See [How do I add or change categories or groups for ontologies?]({{site.baseurl}}/administration-guide/ontologies/managing_ontologies#how-do-i-add-or-change-categories-or-groups-for-ontologies)
 
 ### How do I add or change slices?
 
-See [How do I add or change slices in OntoPortal]({{site.baseurl}}/ontologies/managing_ontologies/#how-do-i-add-or-change-slices-in-ontoportal)
+See [How do I add or change slices in OntoPortal]({{site.baseurl}}/administration-guide/ontologies/managing_ontologies#how-do-i-add-or-change-slices-in-ontoportal)
 
 ### How do I delete an ontology?
 
-See [Deleting an ontology]({{site.baseurl}}/ontologies/managing_ontologies/#deleting-an-ontology)
+See [Deleting an ontology]({{site.baseurl}}/administration-guide/ontologies/managing_ontologies#deleting-an-ontology)
 
 ### How can I migrate ontologies from BioPortal or another OntoPortal Appliance into a new Appliance?
 
-See [Copying external ontologies]({{site.baseurl}}/ontologies/copying_external_ontologies/)
+See [Copying external ontologies]({{site.baseurl}}/administration-guide/ontologies/copying_external_ontologies)
 
 ### How can I restrict ontology downloads via the UI or API?
 
-See [Configuring Ontology Permissions]({{site.baseurl}}/ontologies/configuring_ontology_permissions/)
+See [Configuring Ontology Permissions]({{site.baseurl}}/administration-guide/ontologies/configuring_ontology_permissions)
 
 ## Ontology Parsing
 
 ### When are new ontologies parsed?
 
-See [Submitting Ontologies]({{site.baseurl}}/ontologies/submitting_ontologies/)
+See [Submitting Ontologies]({{site.baseurl}}/administration-guide/ontologies/submitting_ontologies)
 
 ### How do I manually parse an ontology?
 
-See [Manually reparsing using the Ruby console]({{site.baseurl}}/ontologies/submitting_ontologies/#manually-reparsing-using-the-ruby-console)
+See [Manually reparsing using the Ruby console]({{site.baseurl}}/administration-guide/ontologies/submitting_ontologies#manually-reparsing-using-the-ruby-console)
 
 ### How can I process a UMLS ontology?
 
-See [Converting UMLS content]({{site.baseurl}}/ontologies/handling_umls/#converting-umls-content)
+See [Converting UMLS content]({{site.baseurl}}/administration-guide/ontologies/handling_umls#converting-umls-content)
 
 ### How do I know if an ontology has parsed?
 
-See [How do I know if an ontology has parsed]({{site.baseurl}}/ontologies/submitting_ontologies/#how-do-i-know-if-an-ontology-has-parsed)
+See [How do I know if an ontology has parsed]({{site.baseurl}}/administration-guide/ontologies/submitting_ontologies#how-do-i-know-if-an-ontology-has-parsed)
 
 ### Is there a log file for parsing?
 
-See [Is there a log file for parsing?]({{site.baseurl}}/ontologies/submitting_ontologies/#is-there-a-log-file-for-parsing)
+See [Is there a log file for parsing?]({{site.baseurl}}/administration-guide/ontologies/submitting_ontologies#is-there-a-log-file-for-parsing)
 
 
 ## Web User Interface
 
 ### How can I clear the memcached-based UI cache?
 
-See [Administrative Web User Interface—Caching]({{site.baseurl}}/routine_operations/#caching)
+See [Administrative Web User Interface—Caching]({{site.baseurl}}/administration-guide/management/routine_operations#caching)
 
 ### How can I use widgets with my Virtual Appliance?
 
-See [Setting up the widgets]({{site.baseurl}}/steps/setting_up_tools/#setting-up-the-widgets)
+See [Setting up the widgets]({{site.baseurl}}/administration-guide/steps/setting_up_tools#setting-up-the-widgets)
 
 
 ## Virtualization Environments
 
 ### How can I use the OVF image with my virtualization software? (VMware, VirtualBox, etc.)
 
-See [Virtualization Environments]({{site.baseurl}}/steps/virtualization_environments/)
+See [Virtualization Environments]({{site.baseurl}}/administration-guide/steps/virtualization_environments)
 
 ### How can I use the Appliance on Amazon EC2?
 
-See [Amazon AWS AMI]({{site.baseurl}}/steps/getting_started/#amazon-aws-ami) and 
-[AWS AMI deployent]({{site.baseurl}}/steps/initial_installation/#aws-ami-deployment).
+See [Amazon AWS AMI]({{site.baseurl}}/administration-guide/steps/getting_started#amazon-aws-ami) and 
+[AWS AMI deployent]({{site.baseurl}}/administration-guide/steps/initial_installation#aws-ami-deployment).
 
 ### What is the admin password for the AWS Appliance?
 
-See [AWS AMI deployment]({{site.baseurl}}/steps/initial_installation/#aws-ami-deployment)
+See [AWS AMI deployment]({{site.baseurl}}/administration-guide/steps/initial_installation#aws-ami-deployment)
