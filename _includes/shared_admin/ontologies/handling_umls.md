@@ -93,7 +93,7 @@ The output files will be located in the folder specified in `conf.py`.
 To submit the extracted ontologies, 
 use the OntoPortal Web form available in your appliance, 
 or other upload approaches described in 
-<a href="{{site.baseurl}}/administration/ontologies/submitting_ontologies">Submitting Ontologies</a>. 
+<a href="{{site.baseurl}}/administration-guide/ontologies/submitting_ontologies">Submitting Ontologies</a>. 
 
 IMPORTANT: The specified ontology format in the submission process should be `UMLS`.
 

@@ -30,8 +30,8 @@ the {{site.opva}} will not successfully parse it.
 There are several conditions in which a successfully parsed ontology 
 may not display properly in BIoPortal. 
 
-The <a href="{{site.baseurl}}/administration/ontologies/ontology_limitations">Ontology Limitations</a> section
+The <a href="{{site.baseurl}}/administration-guide/ontologies/ontology_limitations">Ontology Limitations</a> section
 describes some limitations in what OntoPortal can effectively process.
 
-The <a href="{{site.baseurl}}/administration/ontologies/troubleshooting_submissions">Troubleshooting Submissions</a>
+The <a href="{{site.baseurl}}/administration-guide/ontologies/troubleshooting_submissions">Troubleshooting Submissions</a>
 section describes how to proceed when an ontology is not displaying correctly.

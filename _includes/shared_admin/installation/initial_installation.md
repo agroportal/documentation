@@ -8,12 +8,12 @@ in squiggly brackets (and `{my_appliance_hostname}` if in a command).
 These steps start your Appliance and set the Appliance ID. 
 
 Once your Appliance is started, you can access it through your browser
-to get the Appliance ID, <a href="{{site.baseurl}}/administration/steps/registration">register your system and obtain a valid license</a>.
+to get the Appliance ID, <a href="{{site.baseurl}}/administration-guide/steps/registration">register your system and obtain a valid license</a>.
 
 ## Starting the appliance
 
 We assume you have downloaded or instantiated the appliance as described
-in <a href="{{site.baseurl}}/administration/steps/getting_started">Getting Started</a>.
+in <a href="{{site.baseurl}}/administration-guide/steps/getting_started">Getting Started</a>.
 
 These instructions use as an example VirtualBox 6.1.4 running on MacOS.
 You will find similar operations in most virtual environment software.
@@ -170,4 +170,4 @@ using the username 'centos' and your Amazon private key.
 ## Next step
 
 To configure your system's settings for your environment  
-proceed to the <a href="{{site.baseurl}}/administration/steps/initial_configuration">Initial Configuration</a> step.
+proceed to the <a href="{{site.baseurl}}/administration-guide/steps/initial_configuration">Initial Configuration</a> step.

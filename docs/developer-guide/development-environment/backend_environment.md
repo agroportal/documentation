@@ -39,7 +39,7 @@ Port forwarding will make them all accessible from the `localhost`
 
 
 ### Install the appliance on VirtualBox
-First get [the appliance ](/administration/steps/initial_installation)  and run it on VirtualBox
+First get [the appliance ](/administration-guide/steps/initial_installation)  and run it on VirtualBox
 
 ### Configure port forwarding
 Then on VirtualBox go to Settings > Network, and change the adapter to `NAT` and click on `Advanced` then `Port Forwarding`. 
