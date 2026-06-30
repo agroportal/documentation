@@ -1,6 +1,16 @@
 # Joining the Alliance
 
-## 1. Fork these 2 projects
+Joining the OntoPortal Alliance means setting up and operating your own portal based on the OntoPortal technology. This section describes the steps involved from installing your own instance, to customizing it and self-declaring your portal on the OntoPortal website so it appears alongside the other portals of the Alliance.
+
+## 0. Install OntoPortal
+
+Before customizing your portal, you first need to install your own instance of OntoPortal. See the [Installation Steps]({{site.baseurl}}/administration-guide/steps/) section for detailed instructions.
+
+## 1. Setup your GitHub environment
+
+Deploying a customized version of OntoPortal — with the same functionalities but with your own look and feel, name, footer, etc., and served at your own specific URL — requires modifying the code's configuration files and re-deploying your own version of the code. This therefore has to be done at least once manually, or by setting up a CI/CD pipeline to automate the build and deployment of your portal.
+
+For this reason, we ask that your code repositories be, whenever possible, **forks of the upstream OntoPortal repositories**. This makes it easier for you to pull in updates and to contribute your changes back to the Alliance. At a minimum, you need to fork the following two repositories:
 
 * <https://github.com/ontoportal/ontoportal_web_ui>
 * <https://github.com/ontoportal/ontologies_api>
