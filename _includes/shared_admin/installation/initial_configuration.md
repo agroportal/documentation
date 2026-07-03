@@ -46,11 +46,13 @@ Here are the available settings:
 Once you have changed your settings, you will need to restart the server 
 by running the command 
 ```
+sudo opctl restart
+```
+or, if you run a VA before v4.0 
+```
 /sbin/service unicorn restart
 ```
 
 ## Next step
 
-If you haven't yet registered your system, 
-go to the <a href="{{site.baseurl}}/administration-guide/steps/registration">Registration Process</a> step 
-for detailed instructions.
+Move to go <a href="{{site.baseurl}}/administration-guide/steps/advanced_configuration">Advanced Configuration</a>.

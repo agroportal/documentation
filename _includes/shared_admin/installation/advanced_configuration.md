@@ -1,15 +1,10 @@
 # Advanced Configuration
 
-This section offers more advanced information on reconfiguring
-your {{site.opva}} environment.
+This section offers more advanced information on configuring
+your {{site.opva}} environment. 
 
-You may wish to defer these steps until after you register your system
-and confirm it runs well in your environment.
-
-```Diff
-# This section needs further review for accuracy.
-```
-
+{: .note }
+> This section needs further review for accuracy.
 
 ## Configuration introduction
 
