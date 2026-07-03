@@ -4,34 +4,15 @@ There are several activities involved in getting your own copy of the
 {{site.opva}} up and running with a registered license:
 * Obtaining the Appliance (by downloading or deploying it)
 * Initial startup, including installation and configuration steps
-* Registration process, including
-   * Submission of Appliance ID
-   * Validation of your Appliance by entering the license certificate
-
-The first step is covered below, with subsequent steps in following pages.
-
-<!-- Not implemented yet
-Note that the Registration process can start before or in parallel with
-the other steps, but you need the Appliance ID 
-(obtained during the system startup) to submit the Registration form
-and obtain the license for validating your Appliance.
-
-If you have registration questions or are a commercial user of OntoPortal,
-you can register before you obtain the {{site.opva}}.
-This will let you ask questions about our registration process,
-and lets us know who is interested in the Appliance (thank you!).
-Or, you can download and evaluate the appliance first, 
-and then choose whether or not you fill out the registration form.
--->
-
-After the OntoPortal operations team has approved your completed registration,
-you will have access to your license certificate. 
-Copy this certificate and paste it into your Appliance 
-in order to complete the installation process.
+* Registration process with retrieved Appliance ID
 
 ## Obtaining the {{site.opva}}
 
-The {{site.opva}} is available in a VMWare-compatible Open Virtual Appliance (OVA),
+The **recommended** way to install OntoPortal is by getting and installing the {{site.opva}} as provided by [Stanford BMIR](https://bmir.stanford.edu/), which keeps track of all the uses and assigns free licenses. This Appliance is based on the BioPortal codebase and is packaged roughly once a year. To request it, please **contact us** at <support@ontoportal.org>.
+
+A custom version of the {{site.opva}}, based on the AgroPortal codebase, is distributed by [INRAE MISTEA](https://mistea.montpellier.hub.inrae.fr/). To request it, please **contact us** at <support@ontoportal.org>.
+
+The Appliance is available in a VMWare-compatible Open Virtual Appliance (OVA),
 or as an Amazon Machine Instance (AMI) from Amazon Web Services (AWS).
 Each of the methods is described below.
 
@@ -52,6 +33,18 @@ The {{site.opva}} OVA file can be deployed directly into your Virtualization Pla
 For users who want to run their OntoPortal instance on Amazon Web Service cloud, 
 an Amazon Machine Instance (AMI) is available on the [OntoPortal Alliance AWS Market Place](https://aws.amazon.com/marketplace/pp/B088NYWLSQ).
 (Our licensing approach for using this service is the same as for the VMWare Version.)
+
+## Alternative installation methods
+
+Besides the Virtual Appliance, OntoPortal can also be installed as a containerized application. These methods require some familiarity with container tooling and are not the default mode chosen in this documentation.
+
+### Docker
+
+The [`ontoportal_docker`](https://github.com/ontoportal/ontoportal_docker) repository provides a containerized installation of OntoPortal intended primarily for developers and evaluation purposes, rather than production deployments. While it is actively maintained, we currently offer only limited support for this installation method.
+
+### Kubernetes
+
+The [`ontoportal-deployment`](https://github.com/ontoportal/ontoportal-deployment) repository provides deployment resources for setting up a containerized OntoPortal instance using Docker and Kubernetes. It is designed for more robust and scalable deployments, including production environments, although it requires familiarity with container orchestration and infrastructure management. This repository access is limited and you need to **contact us** at <support@ontoportal.org>.
 
 ## Next steps
 
