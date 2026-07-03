@@ -42,6 +42,7 @@ The image also bundles multiple third-party software described in the latest ver
 * RDF stores
   * 4store
   * AllegroGraph
+  * Virtuoso
 * Application Stack
   * Ubuntu
   * Apache HTTPD server
@@ -52,6 +53,6 @@ The image also bundles multiple third-party software described in the latest ver
   * Solr
   * mgrep
   * memcache
-  * to be continued...
+  * and more...
 
 

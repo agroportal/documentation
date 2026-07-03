@@ -1,4 +1,4 @@
-# Upgrading Your Appliance
+# Appliance Upgrade
 
 ## Appliance Versioning
 

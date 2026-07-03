@@ -1,4 +1,4 @@
-## Enbaling the Recaptcha in Ontoportal
+# Enbale Recaptcha
 
 To enable Recaptcha in OntoPortal, you need to obtain a Recaptcha site key and secret key from [https://www.google.com/recaptcha/admin/create](https://www.google.com/recaptcha/admin/create)
 

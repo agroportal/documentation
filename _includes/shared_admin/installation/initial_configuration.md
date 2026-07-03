@@ -1,15 +1,19 @@
-# General Instruction
+# Initial Configuration
 
 These settings will configure your installation for your environment.
 
-## Replacing 4store with AllegroGraph
+## Triple-store Configuration
 
-Your {{site.opva}} can use either 4store or (new with version 3.0) AllegroGraph 
-as its RDF backend storage. 
-We use 4store as the default RDF store for the system, as we have much more experience with it to date. If you want to use the AllegroGraph RDF store
-instead of the default 4store RDF store,
-visit the <a href="{{site.baseurl}}/administration-guide/steps/allegrograph_configuration">AllegroGraph Configuration</a>
-page before you begin adding ontologies.
+Your {{site.opva}} can run with multiple RDF triple-stores as backend storage.
+
+Starting with version 4.0, the virtual appliance ships with AllegroGraph as the default RDF store. To fully configure it, visit the <a href="{{site.baseurl}}/administration-guide/steps/allegrograph_configuration">AllegroGraph Configuration</a> page before you begin uploading content.
+
+If you want to switch to using 4store instead (**not recommended**), visit the <a href="{{site.baseurl}}/administration-guide/steps/4store_configuration">4store Configuration</a> page for detailed instructions.
+
+OntoPortal can also run with [Virtuoso](https://virtuoso.openlinksw.com/); see the <a href="{{site.baseurl}}/administration-guide/steps/virtuoso_configuration">Virtuoso Configuration</a> page. It can also run with [GraphDB](https://graphdb.ontotext.com/), which is not yet documented here — see [agroportal/project-management#229](https://github.com/agroportal/project-management/issues/229) for the current status and pointers.
+
+{: .highlight }
+If you use the Virtual Appliance 4.0 based on the AgroPortal codebase, it ships with **Virtuoso** as the default triple-store.
 
 ## Adding ontologies
 
@@ -42,11 +46,13 @@ Here are the available settings:
 Once you have changed your settings, you will need to restart the server 
 by running the command 
 ```
+sudo opctl restart
+```
+or, if you run a VA before v4.0 
+```
 /sbin/service unicorn restart
 ```
 
 ## Next step
 
-If you haven't yet registered your system, 
-go to the <a href="{{site.baseurl}}/administration-guide/steps/registration">Registration Process</a> step 
-for detailed instructions.
+Move to go <a href="{{site.baseurl}}/administration-guide/steps/advanced_configuration">Advanced Configuration</a>.

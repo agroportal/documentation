@@ -1,4 +1,4 @@
-# Overview
+# TLS and HTTPS
 
 OntoPortal Appliance v4 comes with **HTTPS enabled by default**.  
 A self-signed TLS certificate (“snake-oil” cert) is automatically generated on **first boot** by the appliance’s initialization scripts.  
