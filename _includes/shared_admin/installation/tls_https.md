@@ -1,6 +1,4 @@
-# Enable HTTPS
-
-This section offers information on how to configure HTTPS for your {{site.opva}} > v3.1.x environment.
+# TLS and HTTPS
 
 # Requirements
 1. Domain name/URL.
