@@ -1,4 +1,4 @@
-# Introduction
+# 4store Reference
 
 This is an advanced reference document on the 4store database.
 

@@ -1,4 +1,4 @@
-# Mirroring external ontologies
+# Copying external ontologies
 
 You probably know that OntoPortal ontologies can be loaded from an external web location,
 and that OntoPortal can automatically check the external location (by default nightly) to see if the location's content has changed.

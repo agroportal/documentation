@@ -1,4 +1,4 @@
-# Introduction
+# ncbo-cron Reference
 
 This is an advanced reference document on the ncbo-cron utility.
 

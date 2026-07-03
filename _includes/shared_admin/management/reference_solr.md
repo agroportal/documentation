@@ -1,4 +1,4 @@
-# Introduction
+# Solr Reference
 
 This is an advanced reference document on the solr database.
 

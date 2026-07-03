@@ -1,4 +1,4 @@
-# Overview
+# Advanced Configuration
 
 This section offers more advanced information on reconfiguring
 your {{site.opva}} environment.

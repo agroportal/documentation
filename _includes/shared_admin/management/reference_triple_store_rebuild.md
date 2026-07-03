@@ -1,4 +1,4 @@
-# Introduction
+# Triple Store Rebuild Reference
 
 This is an advanced reference document on rebuilding the triple store database.
 

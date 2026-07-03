@@ -1,14 +1,9 @@
-# General Instruction
+# Intitial Installation
 
 You can supply the hostname (machine name) for the virtual machine 
 during the deployment process. 
-Our documentation refers to this hostname as 'my_appliance_hostname',
+This documentation refers to this hostname as 'my_appliance_hostname',
 in squiggly brackets (and `{my_appliance_hostname}` if in a command).
-
-These steps start your Appliance and set the Appliance ID. 
-
-Once your Appliance is started, you can access it through your browser
-to get the Appliance ID, <a href="{{site.baseurl}}/administration-guide/steps/registration">register your system and obtain a valid license</a>.
 
 ## Starting the appliance
 
@@ -67,9 +62,11 @@ Virtual Operating System
 * Username: centos
 * Password: Ontoportal  
 
-On the first boot, you will be able to change your virtual OS password.
-When you are prompted, 
-first enter the default password above. 
+{: .highlight }
+VAs before v4.0 used to run on Centos oeprating system. For these uses: Username: centos and Password: Ontoportal  
+
+On the first boot, you will be able to change your virtual Operating System password.
+When you are prompted, first enter the default password above. 
 Then you will get the chance to enter your own password (twice). 
 If in the reset process you enter the wrong default password, 
 the entire sequence restarts.
@@ -80,7 +77,7 @@ OntoPortal Admin User
 
 ### AWS AMI deployment
 
-For the AWS AMI, the Operating System SSH login is centos
+For the AWS AMI, the Operating System SSH login is ubuntu (or centos for VAs before v4.0).
 
 For the AWS AMI, the default OntoPortal application administrator is 'admin' and the initial password is the Instance ID of the ec2 instance.  Instance ID is a string starting with `i-` followed by alpha-numeric string.  You can find instance ID in the AWS EC2 console or you can get it by running `wget -q -O - http://169.254.169.254/latest/meta-data/instance-id` on the command line after sshing into the appliance.
 
@@ -107,6 +104,10 @@ ip address show dev eth0 | awk '/inet / {print $2}' | cut -d/ -f1
 Open your favorite terminal app in your host OS and connect to the Appliance via SSH:
 
 ```
+$ssh ubuntu@<IP address from the ip command>
+```
+or for VAs before v4.0:
+```
 $ssh centos@<IP address from the ip command>
 ```
 
@@ -124,10 +125,8 @@ all the information about ethernet port called `eth0`.)
 
 #### AWS AMI information
 
-For the AWS AMI installation, the IP address is 
-the public DNS provided by Amazon. 
-You can check for this address in your EC2 management console
-using the Public IP Addresses or Public DNS.
+For the AWS AMI installation, the IP address is the public DNS provided by Amazon. 
+You can check for this address in your EC2 management console using the Public IP Addresses or Public DNS.
 
 #### Vmware Appliance information
 
@@ -159,13 +158,15 @@ the Appliance Web UI can be accessed at `http://{ip_address_of_appliance}`.
 ### Accessing REST services
 
 REST services are available at the following location:
-* `http://{ip_address_of_appliance}:8080`
-* `http://{ip_address_of_appliance}:8080/documentation`
+* `http://{ip_address_of_appliance}:8443`
+* `http://{ip_address_of_appliance}:8443/documentation`
+
+or for VAs before v4.0 port is 8080
 
 ### Accessing the operating system via ssh
 
 For the AMS AWI installation, you can  SSH to the machine 
-using the username 'centos' and your Amazon private key.
+using the username 'ubuntu' (or 'centos' for VAs before v4.0) and your Amazon private key.
 
 ## Next step
 

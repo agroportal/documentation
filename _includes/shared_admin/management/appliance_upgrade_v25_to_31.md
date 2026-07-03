@@ -1,4 +1,4 @@
-# Upgrading Your Appliance
+# Appliance Upgrade v2.5 to v3.1
 
 Upgrading virtual appliance from v2.5 to v3.1 requires deploying a new v3.1 instance of the appliance and peforming data migration. 
 
