@@ -9,6 +9,6 @@ permalink: /administration-guide/steps/4store_configuration
 ---
 
 {: .note }
-> This page applies to **OntoPortal Appliance v4.1** and later, where 4store can be configured as the RDF backend.
+> This page applies to **OntoPortal Appliance v4.0** and later, where 4store can be configured as the alternative RDF triple-store. Appliance versions before v4.0 will use 4store by default. Note that we do not recommend to switch back to 4store as the software is not maintained anymore. The alternative opensource solution is Virtuoso.
 
 {% include shared_admin/installation/4store_configuration.md %}

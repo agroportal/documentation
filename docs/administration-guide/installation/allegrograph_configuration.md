@@ -12,4 +12,7 @@ version: "v32"
 
 {% include admin_nav.html %}
 
+{: .note }
+> This page applies to **OntoPortal Appliance before v4.0** where 4store is the default triple-store. You do not need to follw these instructions if you run VA v4.0 or later.
+
 {% include shared_admin/installation/allegrograph_configuration.md %}
