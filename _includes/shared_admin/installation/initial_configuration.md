@@ -2,6 +2,19 @@
 
 These settings will configure your installation for your environment.
 
+## Triple-store Configuration
+
+Your {{site.opva}} can run with multiple RDF triple-stores as backend storage.
+
+Starting with version 4.0, the virtual appliance ships with AllegroGraph as the default RDF store. To fully configure it, visit the <a href="{{site.baseurl}}/administration-guide/steps/allegrograph_configuration">AllegroGraph Configuration</a> page before you begin uploading content.
+
+If you want to switch to using 4store instead (**not recommended**), visit the <a href="{{site.baseurl}}/administration-guide/steps/4store_configuration">4store Configuration</a> page for detailed instructions.
+
+OntoPortal can also run with [Virtuoso](https://virtuoso.openlinksw.com/); see the <a href="{{site.baseurl}}/administration-guide/steps/virtuoso_configuration">Virtuoso Configuration</a> page. It can also run with [GraphDB](https://graphdb.ontotext.com/), which is not yet documented here — see [agroportal/project-management#229](https://github.com/agroportal/project-management/issues/229) for the current status and pointers.
+
+{: .highlight }
+If you use the Virtual Appliance 4.0 based on the AgroPortal codebase, it ships with **Virtuoso** as the default triple-store.
+
 ## Adding ontologies
 
 The detailed ontology submission process is described in the <a href="{{site.baseurl}}/administration-guide/ontologies/submitting_ontologies">Submitting Ontologies</a> section.
@@ -37,8 +50,6 @@ by running the command
 ```
 
 ## Next step
-
-To choose and configure the RDF triple-store backend for your appliance (AllegroGraph, 4store or Virtuoso), see the <a href="{{site.baseurl}}/administration-guide/steps/triple_store_configuration">Triple-store Configuration</a> step.
 
 If you haven't yet registered your system, 
 go to the <a href="{{site.baseurl}}/administration-guide/steps/registration">Registration Process</a> step 
