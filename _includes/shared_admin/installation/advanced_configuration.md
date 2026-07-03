@@ -53,9 +53,9 @@ HEAD is now at 751e2b9... Gemfile.lock update
 
 ## Updating the deployment scripts
 
-```diff
-- This section needs review and almost certainly an update
-```
+{: .note }
+>This section needs review and almost certainly an update
+
 
 This is an optional step. If you want to pull in the latest deployment scripts—
 these will enable deployment of the latest OntoPortal application code—
@@ -74,12 +74,9 @@ Deploy API:
 Deploy ncbo_cron:
 `./deploy_ncbo_cron`
 
-## More advanced customization                                                                                                                                                                                                                                         
+## More advanced customization                                                                                                                                                                                                                            
 ### Overwrite application files
 It is possible to overwrite specific application files by simply dropping modified versions of those files in `/srv/ontoportal/virtual_appliance/appliance_config/bioportal_web_ui` and then running the deployment script. The deployment script will sync all files from configuration directory overwriting files in the directory from which application is deployed.
-
-### Set up ontology analytics
-To make the ontology popularity statistics work, including the front page graphs, the browse page popularity sort order, and the search and recommender prioritizations, the Google Analytics has to be set up per the instructions on the <a href="{{site.baseurl}}/administration-guide/management/google_analytics_management/">Google Analytics Management</a>  page.
 
 ## Next step
 
