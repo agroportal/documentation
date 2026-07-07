@@ -10,12 +10,17 @@ in squiggly brackets (and `{my_appliance_hostname}` if in a command).
 We assume you have downloaded or instantiated the appliance as described
 in <a href="{{site.baseurl}}/administration-guide/steps/getting_started">Getting Started</a>.
 
+The OntoPortal OVF works in virtualization environments such as **VMware** and **VirtualBox**. It may also work with KVM, but this has not been tested with {{site.opva_version}}.
+
 These instructions use as an example VirtualBox 6.1.4 running on MacOS.
 You will find similar operations in most virtual environment software.
 
 ### Import the Appliance into your Virtual Machine
 
 Use the File > Import menu command to load your Appliance file.
+
+* **VMware**: you can import the OVA template from a previously downloaded OVA file, or import it directly from the URL into your VMware product.
+* **VirtualBox**: VirtualBox supports importing OVA images directly. Start your VirtualBox software, then select **File → Import Appliance** and select the OVA file included in the OntoPortal Virtual Appliance download.
 
 The results should look something like this 'vm' entry.
 

@@ -84,7 +84,7 @@ See [Setting up the widgets]({{site.baseurl}}/administration-guide/steps/setting
 
 ### How can I use the OVF image with my virtualization software? (VMware, VirtualBox, etc.)
 
-See [Virtualization Environments]({{site.baseurl}}/administration-guide/steps/virtualization_environments)
+See [Import the Appliance into your Virtual Machine]({{site.baseurl}}/administration-guide/steps/initial_installation#import-the-appliance-into-your-virtual-machine)
 
 ### How can I use the Appliance on Amazon EC2?
 
