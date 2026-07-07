@@ -37,7 +37,7 @@ where many elements adopt the parent color.
 
 First, review the instructions in the <a href="{{site.baseurl}}/administration-guide/steps/advanced_configuration">Advanced Configuration</a> section. Our example is based on the Advanced Customization instructions at the end of that document.
 
-### 1 set URL for appliance:
+### 1. Set URL for appliance
 ssh to appliance and change user to ontoportal. 
 
 ```

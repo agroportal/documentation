@@ -24,9 +24,7 @@ http://{my_appliance_ip_or_my_appliance_hostname}/test/widgets/form_autocomplete
 
 ## OntoPortal Utilities
 
-OntoPortal offers a set of scripts for benchmarking and troubleshooting issues with your installation of OntoPortal. The source code and documentation is located here:
-
-https://github.com/ncbo/ontoportal_utilities
+OntoPortal offers a set of scripts for benchmarking and troubleshooting issues with your installation of OntoPortal: [`ontoportal_utilities`](https://github.com/ncbo/ontoportal_utilities)
 
 You may need to tweak the software to make it work in your environment, 
 for example if you need two different API keys to access two different systems.
